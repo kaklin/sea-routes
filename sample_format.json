@@ -1,0 +1,19 @@
+{
+	"port name":
+	{
+		"location":"49°45'00\"N., 6°35'00\"W.",
+		"junctions":
+		{
+			"junction":"distance",
+			"junction":"distance",
+			"junction":"distance"
+		},
+		"destinations":
+		{
+			"dest":"distance",
+			"dest":"distance",
+			"dest":"distance",
+			"dest":"distance"
+		}
+	}
+}

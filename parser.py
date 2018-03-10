@@ -3,55 +3,78 @@
 import re
 
 with open('all.txt') as f:
-    big = f.read()
+    raw = f.read()
 
-def remove_footers(x):
-    x = x.replace('* JUNCTION POINT.—See Preface for use of junction points\n', '')
+def split_by_port(x):
+    """makes list of ports"""
+    p = re.compile('([A-Z]+[A-Z\ \-\(\)\’\.\,]+\n*[A-Z\ \-\(\)\’\.]+,[\ \n]*[A-Z\ \n\-\.]+[\ \n]*[A-Z\.]*\n)')
+    x = p.split(x)[1:]
+    x = zip(x[::2], x[1::2])
+    x = [''.join(list(a)) for a in x]
     return x
 
-big = remove_footers(big)
+ports = split_by_port(raw)
 
-print(big)
+# print(ports[3])
 
-def split_by_port():
-    return
+# print(''.join(big[1:3]))
+# print(''.join(big[103:105]))
 
 with open("ports/AAIUN,  WESTERN SAHARA") as f:
     aauin = f.read()
 
-def parse_ports(ports):
-    ports = ports.replace('\n', ' ')
-    ports = ports.replace(',', '')
-    p = re.compile('\D*\d*\s')
-    ports = p.findall(ports)
-    ports = [x.strip() for x in ports]
-    dist_pattern = re.compile('\d+')
-    name_pattern = re.compile('\D+')
-    ports = [(name_pattern.search(x).group(0).strip(), dist_pattern.search(x).group(0)) for x in ports]
+def parse_destinations(ports):
+    if isinstance(ports, list):
+        ports = ports.replace('&', ' ')
+        ports = ports.replace(',', '')
+        p = re.compile('\D*\d*\s')
+        ports = p.findall(ports)
+        ports = [x.strip() for x in ports]
+        dist_pattern = re.compile('\d+')
+        name_pattern = re.compile('\D+')
+        ports = [(name_pattern.search(x).group(0).strip(), dist_pattern.search(x).group(0)) for x in ports]
     return ports
 
 def single_location_parser(loc):
-    # print(whole_file)
-    port_name = loc.split('\n')[0]
+    # print('----------RAW------------')
+    # print(loc)
+    # print('-------EXTRACTED------------')
+    loc = loc.replace('\n', '&')
+    p = re.compile('.*\([0-9]')
+    port_name = p.match(loc).group(0)[:-2].replace('&', '')
+    # port_name = loc.split('\n')[0]
 
     print('Port name: {}'.format(port_name.title()))
 
-    location = loc.split('\n')[1]
-    location = location.replace('\xcc\x8a', '')
+    l = re.compile('\(\d.*\\"[A-Z]\.\)')
+    location = l.search(loc).group()
     location = location.replace('(', '')
     location = location.replace(')', '')
-    location = location.replace('"', '\\"')
-    print('location: {}'.format(location[0:location.index(' to:')]))
+    print('location: {}'.format(location))
 
-    junctions = loc[loc.index("Junction Points*")+len("Junction Points* "):loc.index("Ports")]
-    ports = loc[loc.index("Ports")+len("Ports "):]
+
+    try:
+        junctions = loc[loc.index("Junction Points*")+len("Junction Points* "):loc.index("Ports")]
+    except ValueError as e:
+        # print('Special case with no Junction points?')
+        junctions = 'Special case'
+        pass
+    try:
+        ports = loc[loc.index("Ports")+len("Ports "):]
+    except Exception as e:
+        # print('Special case?')
+        ports = 'Special case'
+        pass
     
-    print(parse_ports(junctions))
-    print(parse_ports(ports))
+    parse_destinations(junctions)
+    parse_destinations(ports)
     
     return
 
-single_location_parser(aauin)
+# single_location_parser(ports[2])
+
+for p in ports[:]:
+    single_location_parser(p)
 
 
 

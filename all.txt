@@ -1858,6 +1858,7 @@ ASTORIA, OREGON, U.S.A.
 Subtract 83 miles from Portland
 distances.
 ATUCHA, ARGENTINA
+(34°35'00"S., 58°22'00"W.)
 Add 80 miles to Buenos Aires
 distances (via Mitre Channel).
 ATUMI, JAPAN
@@ -3604,7 +3605,7 @@ Canal), 1,381
 Tunis, Tunisia (south of Greece),
 1,415
 Volos, Greece, 693
-BISHOP ROCK, ENGLAND *
+BISHOP ROCK, ENGLAND
 (49°45'00"N., 6°35'00"W.) to:
 Junction Points*
 Cape of Good Hope, South
@@ -4730,6 +4731,7 @@ Dakar, Senegal, 755
 Takoradi, Ghana, 197
 BUCKNER BAY, OKINAWA
 JIMA, RYUKYU ISLANDS
+(26°17'00"N., 127°53'00"E.)
 See Nakagusuku Wan.
 BUENAVENTURA,
 COLOMBIA
@@ -5615,8 +5617,7 @@ Willemstad, Curacao (via Mona
 Passage), 674
 Willemstad, Curacao (via
 Windward Passage), 697
-CAPE COD CANAL (NORTH
-END), MASSACHUSETTS,
+CAPE COD CANAL (NORTH END), MASSACHUSETTS,
 U.S.A.
 (41°46'40"N., 70°29'20"W.) to:
 Junction Points*
@@ -5638,8 +5639,7 @@ New York, New York, U.S.A., 174
 Portland, Maine, U.S.A., 119
 Reykjavik, Iceland, 2,341
 Yarmouth, Canada, 228
-CAPE COD CANAL (SOUTH
-END), MASSACHUSETTS,
+CAPE COD CANAL (SOUTH END), MASSACHUSETTS,
 U.S.A.
 (41°37'49"N., 70°41'52"W.) to:
 Junction Points*
@@ -5665,7 +5665,7 @@ Port Castries, St. Lucia, 1,733
 Recife, Brazil, 3,633
 San Juan, Puerto Rico, 1,410
 CAPE LEEUWIN,
-AUSTRALIA*
+AUSTRALIA
 (34°32'00"S., 115°08'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa
@@ -5761,7 +5761,7 @@ Rio de Janeiro, Brazil, 7,178
 Salvador, Brazil, 2,903
 Savannah, Georgia, U.S.A., 5,517
 CAPE OF GOOD HOPE,
-SOUTH AFRICA*
+SOUTH AFRICA
 (34°22'00"S., 18°23'00"E.) to:
 Junction Points*
 Bishop Rock, England, 5,790
@@ -5860,7 +5860,6 @@ Georgetown, Guyana, 5,026
 Greenville, Liberia, 2,826
 Halifax, Canada, 6,502
 Hamilton, Bermuda, 6,169
-22 CAPE ST. JACQUES, VIETNAM
 Horta, Azores, 5,152
 Inhambane, Mozambique, 1,228
 Jacksonville, Florida, U.S.A.,
@@ -9053,7 +9052,7 @@ FASLANE BAY, SCOTLAND
 (56°04'00"N., 4°49'00"W.)
 Subtract 11 miles from Glasgow
 distances.
-FASTNET ROCK, IRELAND*
+FASTNET ROCK, IRELAND
 (51°20'00"N., 9°36'00"W.) to:
 Junction Points*
 Bishop Rock, England, 149
@@ -10213,7 +10212,7 @@ New York, New York, U.S.A.,
 1,216
 Nuevitas, Cuba, 82
 Port Antonia, Jamaica, 323
-GIBRALTAR
+GIBRALTAR, GIBRALTAR
 (36°08'00"N., 6°21'30"W.) to:
 Junction Points*
 Port Said, Egypt, 1,925
@@ -10417,7 +10416,7 @@ Ho Chi Minh, Vietnam, 2,484
 Hong Kong, China, 2,583
 Manila, Philippines, 2,034
 Port Darwin, Australia, 460
-GRAND BANKS SOUTH*
+GRAND BANKS SOUTH, ATLANTIC
 (42°30'00"N., 50°00'00"W.) to:
 Junction Points*
 Bishop Rock, England, 1,830
@@ -11933,7 +11932,7 @@ Yantai, China (via Osumi Kaikyo),
 Yokohama, Japan (via rhumb
 line), 3,520
 Yokohama, Japan, 3,395
-HONSHU, JAPAN*
+HONSHU, JAPAN
 (35°00'00"N., 140°30'00"E.) to:
 Junction Points*
 Selat Lombok, Indonesia, 3,059
@@ -12050,7 +12049,7 @@ eastbound.
 HOUSTON, TEXAS, U.S.A.
 (29°45'00"N., 95°17'20"W.) Add
 47 miles to Galveston distances.
-HOWLAND ISLAND
+HOWLAND ISLAND, U.S.A.
 (0°48'00"N., 176°38'00"W.) to:
 Ports
 Baker Island, 37
@@ -12205,7 +12204,7 @@ IJMUIDEN, NETHERLANDS
 (52°28'00"N., 4°34'00"E.)
 Subtract 14 miles from Amsterdam
 distances.
-ILE D’OUESSANT, FRANCE *
+ILE D’OUESSANT, FRANCE
 (48°40'00"N., 5°30'00"W.) to:
 Junction Points*
 Bishop Rock, England, 80
@@ -12542,7 +12541,7 @@ Yokohama, Japan (via Maemul
 Sudo and Bungo Suido), 1,016
 Yokohama, Japan (via Naikai),
 1,070
-INISHTRAHULL, IRELAND*
+INISHTRAHULL, IRELAND
 (55°25'00"N., 7°30'00"W.) to:
 Junction Points*
 Bishop Rock, England, 395
@@ -14641,6 +14640,7 @@ Oulu, Finland, 214
 Sankt-Peterburg, Russia, 433
 Stockholm, Sweden, 232
 KUNG THEP, THAILAND
+(13°43'00"N., 100°31'00"E.)
 See Bangkok.
 KUCHING, SARAWAK
 (1°33'35"N., 110°20'35"E.) to:
@@ -18000,7 +18000,7 @@ St. Helena Island, 2,936
 Valparaiso, Chile, 2,740
 Wilmington, North Carolina,
 U.S.A., 5,691
-MONTREAL, CANADA*
+MONTREAL, CANADA
 (45°30'10"N., 73°33'00"W.) to:
 Junction Points*
 Bishop Rock, England (via Strait
@@ -19452,7 +19452,7 @@ Vancouver, Canada, 2,304
 Yokohama, Japan, 2,696
 NORD-OSTSEE-KANAL
 (EAST ENTRANCE),
-GERMANY*
+GERMANY
 (54°22'00"N., 10°09'00"E.) to:
 Junction Points*
 Bishop Rock, England, 727
@@ -20825,7 +20825,7 @@ PALUA, VENEZUELA
 (8°21'45"N., 62°41'30"W.)
 Subtract 2 miles from Puerto Ordaz
 distances.
-PANAMA, PANAMA*
+PANAMA, PANAMA
 (8°53'00"N., 79°31'00"W.) to:
 Junction Points*
 Bishop Rock, England (via Mona
@@ -21588,7 +21588,7 @@ Tampico, Mexico, 759
 Tuxpan, Mexico, 785
 Veracruz, Mexico, 831
 PENTLAND FIRTH,
-SCOTLAND*
+SCOTLAND
 (58°42'00"N., 3°20'00"W.) to:
 Junction Points*
 Bishop Rock, England, 636
@@ -22110,12 +22110,6 @@ Vitoria, Brazil, 4,554
 Walvisbaai, Namibia, 6,318
 Willemstad, Curacao, 1,762
 Yarmouth, Canada, 616
-PHNOM PENH, CAMBODIA
-(11°36'00"N., 104°54'00"E.) Via
-Vung Tau pilot station
-(10°20’30’’N, 107°04’00’’E ) Add
-157 1/2 miles to Ho Chi Minh
-distances.
 PHUKET, THAILAND
 (7°50'00"N., 98°26'00"E.) to:
 Junction Points*
@@ -23494,7 +23488,7 @@ PORT SAN CARLOS,
 FALKLAND ISLANDS
 (51°30'00"S., 59°00'00"W.) See
 Stanley, Falkland Islands.
-PORT SAID, EGYPT*
+PORT SAID, EGYPT
 (31°16'00"N., 32°19'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa,
@@ -23681,7 +23675,6 @@ Pula, Croatia (via Corinth Canal),
 Qabis, Tunisia, 1,149
 Rangoon, Burma, 4,696
 Ras as Sidr, Egypt, 112
-86 PORT ST. LOUIS DU RHONE, FRANCE
 Ras Gharib, Egypt, 187
 Ras Tannurah, Saudi Arabia, 3,162
 Reggio Di Calabria, Sicily, 939
@@ -23742,8 +23735,7 @@ Vlores, Albania, 973
 Volos, Greece, 683
 Yumurtalik, Turkey, 372
 Zadar, Croatia, 1,214
-PORT ST. LOUIS DU RHONE,
-FRANCE
+PORT ST. LOUIS DU RHONE, FRANCE
 (43°23'00"N., 4°48'00"E.) to:
 Junction Points*
 Port Said, Egypt, 1,535
@@ -24609,7 +24601,7 @@ Ports
 Cebu, Philippines, 225
 Manila, Philippines, 363
 Zamboanga, Philippines, 237
-PUNTA ARENAS, CHILE*
+PUNTA ARENAS, CHILE
 (53°10'00"S., 70°54'00"W.) to:
 Junction Points*
 Bishop Rock, England, 7,019
@@ -25815,8 +25807,7 @@ Ports
 Bergen, Norway, 279
 London, England, 572
 Oslo, Norway, 106
-ROAD HARBOR, TORTOLA,
-BRITISH VIRGIN ISLANDS
+ROAD HARBOR, TORTOLA, BRITISH VIRGIN ISLANDS
 (18°25'00"N., 64°37'00"W.) See
 Port Purcell.
 ROCHEFORT, FRANCE
@@ -26752,14 +26743,13 @@ SAN LORENZO, ARGENTINA
 distances or add 202 miles via the
 Miter Channel.
 SAN LORENZO, HONDURAS
-(13°25'00"N., 87°25'00".) to:
+(13°25'00"N., 87°25'00"W.) to:
 Junction Points*
 Panama, Panama, 762
 Ports
 Acapulco, Mexico, 791
 Callao, Peru, 1,701
-SAN LORENZO,
-VENEZUELA
+SAN LORENZO, VENEZUELA
 (9°47'00"N., 71°05'30"W.) Add
 95 miles to Maracaibo distances.
 SAN NICOLAS, ARGENTINA
@@ -27727,7 +27717,7 @@ Yakutat, Alaska, U.S.A., 1,003
 Yokohama, Japan (north of
 Aleutian Islands), 4,245
 SELAT LOMBOK,
-INDONESIA*
+INDONESIA
 (8°50'00"S., 115°43'00"E.) to:
 Junction Points*
 Cape of Good Hope, South
@@ -27789,7 +27779,7 @@ Tjilatjap, Indonesia, 413
 Tjirebon, Indonesia, 503
 Whyalla, Australia, 2,782
 Zamboanga, Philippines, 1,047
-SELAT SUNDA, INDONESIA*
+SELAT SUNDA, INDONESIA
 (6°04'00"S., 105°50'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa,
@@ -27865,7 +27855,7 @@ Victoria, Sabah, 948
 Vladivostok, Russia, 3,357
 Weonsan, North Korea, 3,161
 Zhenjiang, China, 1,710
-SELAT WETAR, INDONESIA*
+SELAT WETAR, INDONESIA
 (8°19'00"S., 127°27'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa,
@@ -28595,7 +28585,7 @@ Ponta Delgada, Azores, 794
 Santa Cruz de Tenerife, Canary
 Islands, 727
 Vigo, Spain, 251
-SINGAPORE *
+SINGAPORE, SINGAPORE 
 (1°16'00"N., 103°50'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa,
@@ -28978,7 +28968,7 @@ Calcutta, India, 402
 Colombo, Sri Lanka, 1,225
 Penang, Malaysia, 1,215
 SKAGENS ODDE,
-DENMARK*
+DENMARK
 (57°48'00"N., 10°44'00"E.) to:
 Junction Points*
 Bishop Rock, England, 851
@@ -29774,7 +29764,6 @@ U.S.A.
 (27°46'00"N., 82°37'00"W.)
 Subtract 15 miles from Tampa
 distances.
-108 ST. PIERRE, MARTINIQUE
 ST. PIERRE, MARTINIQUE
 (14°44'30"N., 61°11'15"W.) to:
 Ports
@@ -29937,7 +29926,7 @@ Ports
 Belfast, Northern Ireland, 234
 Glasgow, Scotland, 283
 Reykjavik, Iceland, 647
-STRAIT OF GIBRALTAR*
+STRAIT OF GIBRALTAR, GIBRALTAR
 (35°57'00"N., 5°45'00"W.) to:
 Junction Points*
 Bishop Rock, England, 969
@@ -30066,7 +30055,6 @@ Kangerluarsoruseq, Greenland,
 2,444
 Kavala, Greece, 1,706
 Keflavik, Iceland, 1,947
-STRAITS OF FLORIDA 109
 Kerch, Ukraine, 2,256
 Kerkira, Greece, 1,324
 Key West, Florida, U.S.A., 3,949
@@ -30235,7 +30223,7 @@ Willemstad, Curacao, 3,685
 Wilmington, North Carolina,
 U.S.A., 3,524
 Yumurtalik, Turkey, 1,672
-STRAITS OF FLORIDA*
+STRAITS OF FLORIDA, U.S.A.
 (24°25'00"N., 83°00'00"W.) to:
 Junction Points*
 Cape of Good Hope, South Africa,
@@ -31623,7 +31611,7 @@ Baelt), 1,103
 Skagens Odde, Denmark (via The
 Sound), 973
 TORRES STRAIT,
-AUSTRALIA*
+AUSTRALIA
 (10°33'00"S., 142°08'00"E.) to:
 Junction Points*
 Cape of Good Hope, South
@@ -32088,7 +32076,7 @@ Hong Kong, China, 343
 Incheon, South Korea, 975
 Makassar, Sulawesi, 1,757
 Manila, Philippines, 552
-TSUGARU-KAIKYO, JAPAN*
+TSUGARU-KAIKYO, JAPAN
 (41°30'00"N., 140°40'00"E.) to:
 Junction Points*
 Honshu, Japan, 484
@@ -32445,7 +32433,7 @@ Wellington, New Zealand, 1,581
 URDIALES, SPAIN
 (43°22'40"N., 3°12'15"W.) See
 Castro-Urdiales.
-USHANT, FRANCE*
+USHANT, FRANCE
 (48°40'00"N., 5°30'00"W.) See
 Ile d’Ouessant.
 USHUAIA, ARGENTINA
@@ -34052,13 +34040,12 @@ Takoradi, Ghana, 4,040
 Turiamo, Venezuela, 124
 Tuxpan, Mexico, 1,786
 Veracruz, Mexico, 1,756
-WILMINGTON, DELAWARE,
+WILMINGTON, DELAWARE, 
 U.S.A.
 (39°43'12"N., 75°31'30"W.)
 Subtract 26 miles from
 Philadelphia distances.
-WILMINGTON, NORTH
-CAROLINA, U.S.A.
+WILMINGTON, NORTH CAROLINA, U.S.A. 
 (34°14'00"N., 77°57'00"W.) to:
 Junction Points*
 Bishop Rock, England, 3,304
@@ -34098,7 +34085,7 @@ Santiago de Cuba, Cuba, 1,003
 Santo Domingo, Dominican
 Republic, 1,210
 WILSON PROMONTORY,
-AUSTRALIA*
+AUSTRALIA
 (39°10'00"S., 146°26'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa,
@@ -34679,7 +34666,7 @@ distances.
 YOSU, SOUTH KOREA
 (34°45'00"N., 127°45'30"E.) See
 Yeosu, South Korea.
-YUCATAN CHANNEL*
+YUCATAN CHANNEL, MEXICO
 (21°50'00"N., 85°03'00"W.) to:
 Junction Points*
 Bishop Rock, England, 4,103
