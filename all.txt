@@ -1,0 +1,534 @@
+AAIUN, WESTERN SAHARA
+(27 ̊05'37"N., 13 ̊26'55"W.) to:
+Junction Points*
+Bishop Rock, England, 1,397
+Cape of Good Hope, South Africa,
+4,436
+Fastnet Rock, Ireland, 1,465
+Grand Banks South, 2,003
+Ile d’Ouessant, France, 1,356
+Inishtrahull, Ireland, 1,753
+Panama, Panama, 3,894
+Pentland Firth, Scotland, 2,006
+Punta Arenas, Chile, 5,684
+Strait of Gibraltar, 667
+Straits of Florida, 3,712
+Ports
+Arrecife de Lanzarote, Canary
+Islands, 111
+Casablanca, Morocco, 506
+Dakar, Senegal, 793
+Monrovia, Liberia, 1,525
+New York, New York, U.S.A.,
+3,065
+Porto Grande, Cape Verde Islands,
+887
+AALBORG, DENMARK
+(57 ̊03'30"N., 9 ̊56'00"E.) to:
+Junction Points*
+Nord-Ostsee-Kanal (East
+Entrance), Germany, 207
+Skagens Odde, Denmark, 87
+Ports
+Gdynia, Poland (via Store Baelt),
+476
+Gdynia, Poland (via The Sound),
+410
+Kobenhavn, Denmark, 143
+Lubeck, Germany (via Store
+Baelt), 244
+AARHUS, DENMARK
+(56 ̊09'30"N., 10 ̊13'30"E.) to:
+Junction Points*
+Nord-Ostsee-Kanal (East
+Entrance), Germany, 131
+Skagens Odde, Denmark, 127
+Ports
+Abenra, Denmark, 103
+Kobenhavn, Denmark, 108
+Szczecin, Poland, 268
+AASIAAT (EGEDESMINDE),
+GREENLAND
+(68 ̊42'33"N., 52 ̊53'12"W.) to:
+Junction Points*
+Pentland Firth, Scotland, 1,925
+Strait of Gibraltar, 2,772
+Ports
+Churchill, Canada, 1,485
+Reykjavik, Iceland, 1,371
+St. John’s, Canada, 1,294
+ABADAN, IRAN
+(30 ̊19'48"N., 48 ̊16'30"E.)
+Subtract 30 miles from Al Basrah
+distances.
+ABENRA, DENMARK
+(55 ̊01'36"N., 9 ̊25'50"E.) to:
+Junction Points*
+Nord-Ostsee-Kanal (East
+Entrance), Germany, 207
+Skagens Odde, Denmark, 87
+Ports
+Aarhus, Denmark, 114
+Helsinki, Finland, 666
+Kobenhavn, Denmark, 196
+Lubeck, Germany, 138
+Lulea, Sweden, 914
+Riga, Latvia, 588
+Sankt-Peterburg, Russia, 811
+Tallinn, Estonia, 646
+Umea, Sweden, 792
+ABERDEEN, SCOTLAND
+(57 ̊08'30"N., 2 ̊04'30"W.) to:
+Junction Points*
+Ile d’Ouessant, France, 715
+Nord-Ostsee-Kanal (West
+Entrance), 406
+Pentland Firth, Scotland, 106
+Skagens Odde, Denmark, 416
+Ports
+Amsterdam, Netherlands, 376
+Antwerp, Belgium, 465
+Bergen, Norway, 309
+Bodo, Norway, 767
+Bremerhaven, Germany, 435
+Egersund, Norway, 277
+Emden, Germany, 401
+Esbjerg, Denmark, 380
+Hamburg, Germany, 481
+Hammerfest, Norway, 1,073
+Hornmelvik, Norway, 586
+Kristiansand, Norway, 340
+Kristiansund, Norway, 498
+Le Havre, France, 530
+London, England, 431
+Murmansk, Russia, 1,363
+Oostende, Belgium, 415
+Oslo, Norway, 490
+Plymouth, England, 642
+Portland, England, 564
+Portsmouth, England, 514
+Rotterdam, Netherlands, 391
+Slagen, Norway, 450
+Southampton, England, 532
+Stavanger, Norway, 278
+Torshavn, Faroe Islands, 345
+Wilhelmshaven, Germany, 423
+Zeebrugge, Belgium, 420
+ABIDJAN, IVORY COAST
+(5 ̊19'00"N., 4 ̊01'50"W.) to:
+Junction Points*
+Bishop Rock, England, 3,417
+Cape of Good Hope, South Africa,
+2,712
+Fastnet Rock, Ireland, 3,472
+Grand Banks South, 3,539
+Ile d’Ouessant, France, 3,375
+Inishtrahull, Ireland, 3,755
+Panama, Panama, 4,597
+Pentland Firth, Scotland, 4,048
+Punta Arenas, Chile, 4,910
+Strait of Gibraltar, 2,658
+Straits of Florida, 4,756
+Yucatan Channel, 4,895
+Ports
+Cape Town, South Africa, 2,679
+Dakar, Senegal, 1,166
+Freetown, Sierra Leone, 718
+Lagos (including Apapa & Tin Can
+Island), Nigeria, 457
+Luanda, Angola, 1,345
+Pepel, Sierra Leone, 732
+Walvisbaii, Namibia, 2,009
+ABRAHAM BAY,
+MAYAGUANA ISLAND,
+BAHAMAS
+(22 ̊19'00"N., 73 ̊03'20"W.) to:
+Junction Points*
+Cape of Good Hope, South Africa,
+6,237
+Grand Banks South, 1,675
+Panama, Panama, 922
+Punta Arenas, Chile, 6,410
+Strait of Gibraltar, 3,552
+Straits of Florida, 593
+Ports
+New York, New York, U.S.A.,
+1,115
+Nuevitas, Cuba, 243
+San Juan, Puerto Rico, 476
+ABU DHABI, UNITED ARAB
+EMIRATES
+(24 ̊34'13"N., 54 ̊19'49"E.) to:
+Junction Points*
+Cape of Good Hope, South Africa,
+4,812
+Cape Leeuwin, Australia, 5,115
+Selat Lombok, Indonesia, 4,341
+Port Said, Egypt, 2,944
+Singapore, 3,517
+Selat Sunda, Indonesia, 3,724
+Ports
+Aden, Yemen, 1,593
+Belawan, Indonesia, 3,188
+Bombay, India, 1,187
+Calcutta, India, 3,175
+Colombo, Sri Lanka, 1,954
+Darwin, Australia, 5,219
+Fremantle, Australia, 5,045
+Penang, Malaysia, 3,221
+Rangoon, Burma, 3,171
+ACAJUTLA, EL SALVADOR
+(13 ̊35'00"N., 89 ̊51'00"W.) to:
+Junction Points*
+Honshu, Japan, 6,908
+Panama, Panama, 833
+Punta Arenas, Chile, 4,309
+Tsugaru-Kaikyo, Japan, 6,750
+Torres Strait, Australia, 7,784
+Wilson Promontory, Australia,
+7,519
+Ports
+San Francisco, California, U.S.A.,
+2,444
+ACAPULCO, MEXICO
+(16 ̊50'30"N., 99 ̊55'30"W.) to:
+Junction Points*
+Panama, Panama, 1,426
+Punta Arenas, Chile, 4,582
+Ports
+Amapala, Honduras, 763
+Antofagasta, Chile, 2,984
+Apia, Samoa, 4,638
+Arica, Chile, 2,768
+Callao, Peru, 2,198
+Champerico, Guatemala, 494
+Coquimbo, Chile, 3,259
+Corinto, Nicaragua, 792
+Ensenada, Mexico, 1,369
+Esmeraldas, Ecuador, 1,527
+Golfito, Costa Rica, 1,123
+Guayaquil, Ecuador, 1,708
+Guaymas, Mexico, 958
+Honolulu, Hawaii, U.S.A., 3,289
+Iquique, Chile, 2,834
+La Palma, Panama, 1,466
+Los Angeles, California U.S.A.,
+1,501
+Lota, Chile, 3,573
+Manzanillo, Mexico, 295
+Mazatlan, Mexico, 595
+Mollendo, Peru, 2,643
+Monterey, California, U.S.A.,
+1,753
+Pago Pago, American Samoa,
+4,595
+Papeete, French Polynesia, 3,595
+Pedregal, Panama, 1,184
+Pisco, Peru, 2,309
+Puerto Masachapa, Nicaragua, 850
+Puerto Sandino, Nicaragua, 825
+Puntarenas, Costa Rica, 1,011
+Quepos, Costa Rica, 1,043
+Salina Cruz, Mexico, 314
+San Diego, California, U.S.A.,
+1,431
+San Jose, Guatemala, 574
+San Lorenzo, Honduras, 791
+Santa Barbara, California, U.S.A.,
+1,568
+Santa Rosalia, Mexico, 976
+Sasebo, Japan, 6,918
+Talara, Peru, 1,696
+Talcahuano, Chile, 3,558
+Valparaiso, Chile, 3,406
+ACCRA, GHANA
+(5 ̊31'00"N., 0 ̊12'00"W.) to:
+Junction Points*
+Straits of Florida (via Northwest
+Providence Channel), 5,016
+Ports
+Freetown, Sierra Leone, 955
+Grand Bassam, Ivory Coast, 230
+Lagos, Nigeria, 229
+Lobito, Angola, 1,356
+Marshall, Liberia, 671
+Pointe Noire, Congo, 952
+Porto Grande, Cape Verde Islands,
+1,760
+Sassandra, Ivory Coast, 362
+AD DAMMAN, SAUDI
+ARABIA
+(26 ̊31'00"N., 50 ̊12'00"E.) to:
+Junction Points*
+Cape of Good Hope, South Africa,
+4,960
+Port Said, Egypt, 3,142
+Singapore, 3,681
+Ports
+Al Basrah, Iraq, 304
+Bombay, India, 1,373
+ADEN, YEMEN
+(12 ̊47'40"N., 44 ̊59'00"E.) to:
+Junction Points*
+Cape of Good Hope, South
+Africa, 3,954
+Cape Leeuwin, Australia (north of
+Chagos Archipelago), 4,958
+Cape Leeuwin, Australia (south of
+Chagos Archipelago), 4,973
+Port Said, Egypt, 1,400
+Singapore, 3,631
+Selat Sunda, Indonesia (via Eight
+Degree Channel), 3,842
+Torres Strait, Australia (via One
+and Half Degree Channel),
+6,022
+Ports
+Abadan, Iraq, 1,937
+Al Aqabah, Jordan, 1,251
+Al Basrah, Iraq, 1,967
+Al Gurdagah, Egypt, 1,135
+Al Hudaydah, Yemen, 230
+Al Mukha, Yemen, 137
+Albany, Australia (north of Chagos
+Archipelago), 5,127
+Albany, Australia (south of Chagos
+Archipelago), 5,132
+Assab, Ethiopia, 150
+Bandar Abbas, Iran, 1,453
+Bassein, Burma, 3,251
+Beira, Mozambique, 2,610
+Belawan, Indonesia, 3,299
+Bhavnagar, India, 1,707
+Bombay, India, 1,657
+Bur Safaga, Egypt, 1,109
+Calcutta, India, 3,308
+Colombo, Sri Lanka, 2,094
+Dar es Salaam, Tanzania, 1,740
+Diego Garcia, Chagos
+Archipelago, 2,090
+Djibouti, Djibouti, 133
+Eilat, Israel, 1,247
+Fremantle, Australia (north of
+Chagos Archipelago), 4,921
+Hobart, Tasmania, 6,598
+Jiddah, Saudi Arabia, 701
+Karachi, Pakistan, 1,472
+Madras, India, 2,661
+Malacca, Malaysia, 3,517
+Maputo, Mozambique, 2,953
+Massawa, Ethiopia, 400
+Mina al Ahmadi, Kuwait, 1,897
+Mina Abd Allah, Kuwait, 1,894
+Mogadishu, Somalia, 1,106
+Mombasa, Kenya, 1,602
+Moulmein, Burma, 3,354
+Penang, Malaysia, 3,344
+Port Darwin, Australia (via Eight
+Degree Channel), 5,355
+Port Louis, Mauritius, 2,341
+Port Sudan, Sudan, 658
+Rangoon, Burma, 3,318
+Ras al Khafji, Saudi Arabia, 1,871
+Ras as Sidr, Egypt, 1,282
+Ras Gharib, Egypt, 1,207
+Ras Tannurah, Saudi Arabia, 1,773
+Sabang, Indonesia, 3,033
+Suakin, Sudan, 631
+Tanga, Tanzania, 1,671
+Victoria, Seychelles, 1,416
+Wellington, New Zealand (south of
+Chagos Archipelago and
+Tasmania), 7,814
+Zanzibar, Tanzania, 1,722
+AGADIR, MOROCCO
+(30 ̊25'30"N., 9 ̊37'35"W.) to:
+Junction Points*
+Cape of Good Hope, South
+Africa, 4,719
+Ile d’Ouessant, France, 1,136
+Ports
+Abidjan, Ivory Coast, 2,258
+Casablanca, Morocco, 257
+Dakar, Senegal, 1,109
+Escravos, Nigeria, 2,778
+Freetown, Sierre Leone, 1,597
+Lagos, Nigeria, 2,699
+Luanda, Angola, 3,507
+Monrovia, Liberia, 1,761
+Nouadhibou, Mauritania, 751
+Pointe Noire, Congo, 3,321
+Port Harcourt, Nigeria, 2,944
+Qua Iboe, Nigeria, 2,961
+Tangier, Morocco, 414
+Walvisbaai, Namibia, 4,075
+AJACCIO, CORSICA
+(41 ̊55'40"N., 8 ̊45'07"E.) to:
+Junction Points*
+Port Said, Egypt, 1,355
+Strait of Gibraltar, 778
+Ports
+Beirut, Lebanon, 1,437
+Catania, Sicily, 464
+Civitavecchia, Italy, 180
+Genova, Italy, 170
+Marseillemarseille, France, 188
+Nice, France, 138
+Toulon, France, 155
+Venezia, Italy, 1,507
+Villefranche, France, 138
+Volos, Greece (south of Greece),
+1,056
+Volos, Greece (Corinth Canal),
+1,014
+AKITA, JAPAN
+(39 ̊45'30"N., 140 ̊02'00"E.) to:
+Ports
+Aomori, Japan, 158
+Hakodate, Japan, 150
+Maizuru, Japan, 352
+Shimonoseki, Japan, 586
+AKUREYRI, ICELAND
+(65 ̊41'00"N., 18 ̊04'00"W.) to:
+Junction Points*
+Pentland Firth, Scotland, 702
+Strait of Gibraltar, 2,102
+Ports
+Bergen, Norway, 803
+Murmansk, Russia, 1,256
+St. John’s, Canada, 1,616
+AL AQABAH, JORDAN
+(29 ̊31'15"N., 34 ̊59'55"E.) to:
+Junction Points*
+Port Said, Egypt, 380
+Ports
+Aden, Yemen, 1,251
+Jiddah, Saudi Arabia, 573
+Massawa, Ethiopia, 897
+AL BASRAH, IRAQ
+(30 ̊31'30"N., 47 ̊50'30"E.) to:
+Junction Points*
+Cape of Good Hope, South
+Africa, 5,211
+Port Said, Egypt, 3,371
+Singapore, 3,916
+Ports
+Ad Damman, Saudi Arabia, 304
+Aden, Yemen, 1,979
+Bandar Abbas, Iran, 572
+Bandar Khomeini, Iran, 154
+Belawan, Indonesia, 3,553
+Bombay, India, 1,594
+Calcutta, India, 3,593
+Colombo, Sri Lanka, 2,359
+Dumai, Indonesia, 3,824
+Fremantle, Australia, 5,440
+Karachi, Pakistan, 1,177
+Malacca, Malaysia, 3,771
+Massawa, Ethiopia, 2,372
+Mina al Ahmadi, Kuwait, 140
+Penang, Malaysia, 3,598
+Port Darwin, Australia, 5,650
+Rangoon, Burma, 3,603
+Ras Tannurah, Saudi Arabia, 295
+Sabang, Indonesia, 3,287
+Umm Said, Qatar, 444
+AL JUBAYL, SAUDI ARABIA
+(27 ̊01'00"N., 49 ̊42'00"E.) to:
+Junction Points*
+Cape of Good Hope, South
+Africa, 5,109
+Cape Leeuwin, Australia, 5,276
+Selat Lombok, Indonesia, 4,577
+Port Said, Egypt, 3,164
+Singapore, 3,723
+Selat Sunda, Indonesia, 3,949
+Torres Strait, Australia, 6,107
+Ports
+Al Basrah, Iraq, 231
+Bandar Abbas, Iran, 366
+Colombo, Sri Lanka, 2,157
+Fremantle, Australia, 5,248
+Melaka, Malaysia, 3,610
+Port Darwin, Australia, 5,422
+Ra’s at Tannurah, Saudi Arabia, 34
+AL LATAKIA, SYRIA
+(35 ̊31'40"N., 35 ̊45'35"E.) to:
+Junction Points*
+Port Said, Egypt, 310
+Strait of Gibraltar, 2,029
+Ports
+Alexandria, Egypt, 402
+Iraklion, Kriti, 527
+Larnaca, Cyprus, 114
+Mersin, Turkey, 94
+Napoli, Italy, 1,191
+Trieste, Italy (south of Greece),
+1,370
+Trieste, Italy (via Corinth Canal),
+1,337
+Tunis, Tunisia, 1,258
+Valencia, Spain, 1,765
+AL MANAMAH, BAHRAIN
+(26 ̊17'00"N., 50 ̊32'30"E.) to:
+Junction Points*
+Cape of Good Hope, South
+Africa, 4,957
+Port Said, Egypt, 3,132
+Singapore, 3,652
+Ports
+Bandar Khomeini, Iran, 288
+Belawan, Indonesia, 3,316
+Calcutta, India, 3,355
+Fremantle, Australia, 5,203
+Malacca, Malaysia, 3,534
+Penang, Malaysia, 3,361
+Port Darwin, Australia, 5,390
+Rangoon, Burma, 3,329
+Sabang, Indonesia, 3,050
+ALBANY, AUSTRALIA
+(35 ̊02'40"S., 117 ̊54'00"E.) to:
+Junction Points*
+Cape of Good Hope, South
+Africa, 4,740
+Cape Leeuwin, Australia, 168
+Singapore, 2,525
+Wilson Promontory, Australia,
+1,378
+Ports
+Aden, Yemen, 5,127
+Durban, South Africa, 4,270
+Fremantle, Australia, 349
+Geraldton, Australia, 525
+Hobart, Tasmania, 1,494
+Malacca, Malaysia, 2,602
+Melbourne, Australia, 1,363
+Port Adelaide, Australia, 1,024
+Port Darwin, Australia, 2,152
+Port Lincoln, Australia, 953
+Port Louis, Mauritius, 3,340
+Rapid Bay, Australia, 990
+Wellington, New Zealand (south of
+Tasmania), 2,729
+ALBANY, NEW YORK, U.S.A.
+(42 ̊37'54"N., 73 ̊45'18"W.) Add
+126 miles to New York distances.
+ALBATROSS BAY,
+AUSTRALIA
+(12 ̊41'24"S., 141 ̊32'57"E.) to:
+Junction Points*
+Cape of Good Hope, South
+Africa, 6,793
+Cape Leeuwin, Australia, 2,677
+Selat Lombok, Indonesia, 1,583
+Port Said, Egypt, 7,406
+Torres Strait, Australia, 156
+Selat Wetar, Indonesia, 872
+Ports
+Ambon, Indonesia, 1,036
+Darwin, Australia, 725
+Ho Chi Minh, Vietnam, 2,730
+Hong Kong, China, 2,727
+Manila, Philippines, 2,166
+Tjilatjap, Indonesia, 1,961
+Zamboanga, Philippines, 1,681
