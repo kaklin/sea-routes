@@ -1,5 +1,3 @@
-1
-* JUNCTION POINT.—See Preface for use of junction points
 AAIUN, WESTERN SAHARA
 (27°05'37"N., 13°26'55"W.) to:
 Junction Points*
@@ -266,8 +264,6 @@ Cape of Good Hope, South Africa,
 4,960
 Port Said, Egypt, 3,142
 Singapore, 3,681
-2 ADEN, YEMEN
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Al Basrah, Iraq, 304
 Bombay, India, 1,373
@@ -536,8 +532,6 @@ Hong Kong, China, 2,727
 Manila, Philippines, 2,166
 Tjilatjap, Indonesia, 1,961
 Zamboanga, Philippines, 1,681
-ALMERIA, SPAIN 3
-* JUNCTION POINT.—See Preface for use of junction points
 ALEKSANDROVSKSAKHALINSKIY,
 RUSSIA
 (50°54'00"N., 142°07'00"E.) to:
@@ -831,8 +825,6 @@ ALMERIA, SPAIN
 Junction Points*
 Port Said, Egypt, 1,780
 Strait of Gibraltar, 171
-4 ALMIRANTE, PANAMA
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Alicante, Spain, 155
 Barcelona, Spain, 371
@@ -1103,8 +1095,6 @@ Greece), 1,516
 Odessa, Ukraine (via Corinth
 Canal), 1,499
 Oran, Algeria, 444
-APIA, SAMOA 5
-* JUNCTION POINT.—See Preface for use of junction points
 Palermo, Sicily, 292
 Palma, Balearic Islands, 307
 Piraievs, Greece (south of
@@ -1394,8 +1384,6 @@ Raoul Island, Kermadec Islands,
 1,008
 Rotoava, Iles Tuamotu, 1,520
 Salina Cruz, Mexico, 4,886
-6 APRA, GUAM, MARIANA ISLANDS
-* JUNCTION POINT.—See Preface for use of junction points
 San Diego, California, U.S.A.,
 4,195
 San Francisco, California, U.S.A.,
@@ -1684,8 +1672,6 @@ Caldera, Chile, 522
 Callao, Peru, 593
 Chanaral, Chile, 478
 Coquimbo, Chile, 702
-AUCKLAND, NEW ZEALAND 7
-* JUNCTION POINT.—See Preface for use of junction points
 Corinto, Nicaragua, 1,711
 Esmeraldas, Ecuador, 1,484
 Guayaquil, Ecuador, 1,251
@@ -1957,8 +1943,6 @@ Sitka, Alaska, U.S.A., 6,176
 Suva, Fiji Islands, 1,149
 Sydney, Australia, 1,280
 Truk, Caroline Islands, 3,000
-8 AUGUSTA, SICILY
-* JUNCTION POINT.—See Preface for use of junction points
 Valparaiso, Chile, 5,247
 Vancouver, Canada, 6,191
 Vladivostok, Russia, 5,516
@@ -2221,8 +2205,6 @@ Suva, Fiji Islands, 1,202
 Sydney, Australia, 2,752
 BALBOA, PANAMA
 (8°57'30"N., 79°34'15"W.) See
-BANGHAZI, LIBYA 9
-* JUNCTION POINT.—See Preface for use of junction points
 Panama, Panama, to which add 5
 miles for Pacific Ocean distances,
 and from which subtract 5 miles for
@@ -2504,8 +2486,6 @@ Tunis, Tunisia, 585
 Valencia, Spain, 1,094
 Valletta, Malta, 359
 Venezia, Italy, 911
-10 BANGKOK, THAILAND
-* JUNCTION POINT.—See Preface for use of junction points
 Volos, Greece, 552
 BANGKOK, THAILAND
 (13°43'00"N., 100°31'00"E.) to:
@@ -2786,7 +2766,6 @@ Valletta, Malta, 671
 Venezia, Italy, 1,323
 Villefranche, France, 277
 BATH, MAINE, U.S.A. 11
-* JUNCTION POINT.—See Preface for use of junction points
 Volos, Greece (south of Greece),
 1,322
 Volos, Greece (via Corinth Canal),
@@ -3050,8 +3029,6 @@ Junction Points*
 Bishop Rock, England, 2,738
 Ports
 St. John, Canada, 206
-12 BATON ROUGE, LOUISIANA, U.S.A.
-* JUNCTION POINT.—See Preface for use of junction points
 BATON ROUGE, LOUISIANA,
 U.S.A.
 (30°27'00"N., 91°06'00"W.) Add
@@ -3332,8 +3309,6 @@ Bordeaux, France, 3,868
 Boston, Massachusetts, U.S.A.,
 2,970
 Bridgetown, Barbados, 1,154
-BILHOROD-DNISTROVS’KYY, UKRAINE 13
-* JUNCTION POINT.—See Preface for use of junction points
 Buenos Aires, Argentina, 3,274
 Cabedelo, Brazil, 1,021
 Cadiz, Spain, 3,286
@@ -3619,8 +3594,6 @@ Alexandria, Egypt, 1,106
 Beirut, Lebanon, 1,218
 Constanta, Romania, 153
 Haifa, Israel, 1,219
-14 BISHOP ROCK, ENGLAND
-* JUNCTION POINT.—See Preface for use of junction points
 Istanbul, Turkey, 360
 Palermo, Sicily (via Corinth
 Canal), 1,239
@@ -3910,8 +3883,6 @@ Crooked Island Passage), 2,020
 Savannah, Georgia, U.S.A. (via
 Windward Passage and Crooked
 Island Passage), 1,637
-BOTAS, TURKEY 15
-* JUNCTION POINT.—See Preface for use of junction points
 BODO, NORWAY
 (67°17'00"N., 14°22'30"E.) to:
 Junction Points*
@@ -4211,8 +4182,6 @@ Willemstad, Curacao, 1,881
 Yarmouth, Canada, 237
 BOTAS, TURKEY
 (36°50'37"N., 35°57'05"E.) to:
-16 BOTWOOD, CANADA
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Port Said, Egypt, 390
 Strait of Gibraltar, 2,049
@@ -4486,8 +4455,6 @@ Croix Island and Virgin
 Passage), 517
 Santa Barbara de Samana,
 Dominican Republic, 675
-BUENAVENTURA, COLOMBIA 17
-* JUNCTION POINT.—See Preface for use of junction points
 Savannah, Georgia, U.S.A., 1,646
 St. Georges, Grenada (north of
 island), 144
@@ -4767,8 +4734,6 @@ See Nakagusuku Wan.
 BUENAVENTURA,
 COLOMBIA
 (3°54'00"N., 77°04'30"W.) to:
-18 BUENOS AIRES, ARGENTINA
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Panama, Panama, 352
 Ports
@@ -5043,8 +5008,6 @@ Hua-lien Kang, Taiwan, 782
 Incheon, South Korea (via
 Maenggol Sudo), 402
 Jakarta, Indonesia, 2,836
-CALCUTTA, INDIA 19
-* JUNCTION POINT.—See Preface for use of junction points
 Kimchaek, North Korea, 351
 Kobe, Japan, 361
 Kushiro, Japan, 876
@@ -5319,8 +5282,6 @@ Portland, England, 170
 Stavanger, Norway, 515
 CALCUTTA, INDIA
 (22°33'00"N., 88°l9'00"E.) to:
-20 CALDERA, CHILE
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Cape of Good Hope, South Africa
 (via east of Madagascar), 5,444
@@ -5598,8 +5559,6 @@ Passage), 2,424
 Pentland Firth, Scotland, 468
 Punta Arenas, Chile, 6,971
 Straits of Florida, 1,730
-CAPE OF GOOD HOPE, SOUTH AFRICA 21
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Argentia, Canada, 357
 Baltimore, Maryland, U.S.A., 975
@@ -5902,7 +5861,6 @@ Greenville, Liberia, 2,826
 Halifax, Canada, 6,502
 Hamilton, Bermuda, 6,169
 22 CAPE ST. JACQUES, VIETNAM
-* JUNCTION POINT.—See Preface for use of junction points
 Horta, Azores, 5,152
 Inhambane, Mozambique, 1,228
 Jacksonville, Florida, U.S.A.,
@@ -6203,8 +6161,6 @@ Philadelphia, Pennsylvania, U.S.A.
 Pointe a Pitre, Guadeloupe, 941
 Porlamar, Margarita, Venezuela,
 785
-CEBU, PHILIPPINES 23
-* JUNCTION POINT.—See Preface for use of junction points
 Port au Prince, Haiti, 639
 Port of Spain, Trinidad, 932
 Port Castries, St. Lucia, 933
@@ -6488,8 +6444,6 @@ Honolulu, Hawaii, U.S.A., 4,610
 Incheon, Korea, 1,656
 Iloilo, Philippines, 176
 Jakarta, Indonesia (via Lumbucan
-24 CEUTA, MOROCCO
-* JUNCTION POINT.—See Preface for use of junction points
 Channel), 1,563
 Kobe, Japan, 1,601
 Lo hsing-ta Mao-ti, China (via
@@ -6785,7 +6739,6 @@ Hamilton, Bermuda, 872
 Jacksonville, Florida, U.S.A.,
 1,181
 CHRISTIANSTED, ST. CROIX 25
-* JUNCTION POINT.—See Preface for use of junction points
 Key West, Florida, U.S.A., 1,036
 Kingston, Jamaica, 705
 La Cuaira, Venezuela, 479
@@ -7056,8 +7009,6 @@ Junction Points*
 Bishop Rock, England, 3,370
 Ports
 Guantanamo, Cuba (north of
-26 CHRISTMAS ISLAND, LINE ISLANDS
-* JUNCTION POINT.—See Preface for use of junction points
 Hispaniola and Virgin Passage),
 635
 Horta, Azores, 2,259
@@ -7344,7 +7295,6 @@ Port Darwin, Australia, 3,314
 Port Louis, Mauritius, 2,098
 Port Refuge, Cocos Islands, 1,539
 COOS BAY, OREGON, U.S.A. 27
-* JUNCTION POINT.—See Preface for use of junction points
 Rangoon, Burma, 1,268
 Sabang, Indonesia, 976
 Tamatave, Madagascar, 2,351
@@ -7645,8 +7595,6 @@ Callao, Peru, 4,344
 Guayaquil, Ecuador, 3,920
 Honolulu, Hawaii, 2,150
 Kobe, Japan, 4,565
-28 COPENHAGEN, DENMARK
-* JUNCTION POINT.—See Preface for use of junction points
 Yokohama, Japan, 4,302
 COPENHAGEN, DENMARK
 (55°42'00"N., 12°36'06"E.) See
@@ -7919,8 +7867,6 @@ Punta Arenas, Chile, 4,928
 Strait of Gibraltar, 1,487
 Straits of Florida (via Northwest
 Providence Channel), 3,768
-DERINCE, TURKEY 29
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Abidjan, Ivory Coast, 1,166
 Agadir, Morocco, 1,109
@@ -8203,8 +8149,6 @@ Junction Points*
 Port Said, Egypt, 837
 Strait of Gibraltar (south of
 Greece), 1,855
-30 DEVONPORT, ENGLAND
-* JUNCTION POINT.—See Preface for use of junction points
 Strait of Gibraltar (via Corinth
 Canal), 1,838
 Ports
@@ -8459,8 +8403,6 @@ Nord-Ostsee-Kanal (East
 Entrance), Germany, 501
 Pentland Firth, Scotland, 179
 Skagens Odde, Denmark, 455
-EL FERROL DEL CAUDILLO, SPAIN 31
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Amsterdam, Netherlands, 374
 Antwerp, Belgium, 442
@@ -8736,8 +8678,6 @@ SPAIN
 Junction Points*
 Bishop Rock, England, 394
 Ile d’Ouessant, France, 343
-32 EL JADIDA, MOROCCO
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Aviles, Spain, 133
 Bayonne, France, 322
@@ -9006,8 +8946,6 @@ Balintang Channel), 7,532
 Torres Strait, Australia, 6,030
 Wilson Promontory, Australia,
 6,843
-FETHIYE, TURKEY 33
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Antofagasta, Chile, 4,963
 Auckland, New Zealand, 5,746
@@ -9271,8 +9209,6 @@ FETHIYE, TURKEY
 (36°37'30"N., 29°07'20"E.) to:
 Junction Points*
 Port Said, Egypt, 375
-34 FIGUERA DA FOZ, PORTUGAL
-* JUNCTION POINT.—See Preface for use of junction points
 Strait of Gibraltar, 1,712
 Ports
 Ashdod Yam, Israel, 416
@@ -9527,8 +9463,6 @@ or 145 miles to Buenos Aires
 distances.
 FREDERICIA, DENMARK
 (55°33'45"N., 9°45'35"E.) to:
-GAETA, ITALY 35
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Nord-Ostsee-Kanal (East
 Entrance), Germany, 85
@@ -9807,8 +9741,6 @@ Mao-ti, on the River Min. See Lo
 hsing-ta Mao-ti.
 GAETA, ITALY
 (41°13'00"N., 13°35'00"E.) to:
-36 GALEOTA POINT, TRINIDAD
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Port Said, Egypt, 1,150
 Strait of Gibraltar, 986
@@ -10066,8 +9998,6 @@ Honshu, Japan, 2,048
 Selat Lombok, Indonesia, 1,096
 Panama, Panama, 9,384
 Punta Arenas, Chile, 8,757
-GIZAN, SAUDI ARABIA 37
-* JUNCTION POINT.—See Preface for use of junction points
 Singapore, 1,431
 Selat Sunda, Indonesia, 1,570
 Ports
@@ -10353,8 +10283,6 @@ Horta, Azores, 1,092
 St. Nazaire, France, 274
 GIZAN, SAUDI ARABIA
 (16°53'15"N., 42°23'20"E.) to:
-38 GLADSTONE HARBOR, AUSTRALIA
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Cape of Good Hope, South
 Africa, 4,344
@@ -10597,8 +10525,6 @@ Pentland Firth, Scotland, 3,869
 Strait of Gibraltar, 3,737
 Straits of Florida, 638
 Yucatan Channel, 582
-HAIFA, ISRAEL 39
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Argentia, Canada, 1,976
 Arkhangel’sk, Russia, 5,156
@@ -10891,8 +10817,6 @@ Annaba, Algeria, 1,378
 Banghazi, Libya, 783
 Baniyas, Syria, 153
 Banzart, Tunisia, 1,273
-40 HAINES, ALASKA, U.S.A.
-* JUNCTION POINT.—See Preface for use of junction points
 Barcelona, Spain, 1,699
 Bari, Italy (south of Greece), 1,065
 Bari, Italy (via Corinth Canal),
@@ -11191,8 +11115,6 @@ Colon, Panama, 2,295
 Dakar, Senegal, 2,956
 Guantanamo, Cuba, 1,634
 Hamilton, Bermuda, 756
-HAVANA, CUBA 41
-* JUNCTION POINT.—See Preface for use of junction points
 Ivittuut, Greenland, 1,380
 Jacksonville, Florida, U.S.A.,
 1,255
@@ -11465,8 +11387,6 @@ Hamburg, Germany, 362
 Wilhelmshaven, Germany, 296
 HAVANA, CUBA
 (23°08'00"N., 82°20'30"W.) See
-42 HELSINGBORG, SWEDEN
-* JUNCTION POINT.—See Preface for use of junction points
 La Habana.
 HELSINGBORG, SWEDEN
 (56°02'30"N., 12°41'30"E.) to:
@@ -11732,8 +11652,6 @@ Ail Basrah, Iraq, 1,826
 Bombay, India, 306
 Calcutta, India, 1,817
 Colombo, Sri Lanka, 590
-HORNEFORS, SWEDEN 43
-* JUNCTION POINT.—See Preface for use of junction points
 Darwin, Australia, 3,925
 Fremantle, Australia, 3,696
 Okha, India, 579
@@ -12039,8 +11957,6 @@ HORNEFORS, SWEDEN
 (63°36'37"N., 19°55'29"E.) to:
 Junction Points*
 Nord-Ostsee-Kanal (East
-44 HORSENS, DENMARK
-* JUNCTION POINT.—See Preface for use of junction points
 Entrance), Germany, 767
 Skagens Odde, Denmark (via The
 Sound), 828
@@ -12307,8 +12223,6 @@ Pentland Firth, Scotland, 872
 Punta Arenas, Chile, 6,986
 Skagens Odde, Denmark, 833
 Strait of Gibraltar, 918
-INCHEON, SOUTH KOREA 45
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Aberdeen, Scotland, 715
 Agadir, Morocco, 1,136
@@ -12605,8 +12519,6 @@ Russia (via Osumi Kaikyo),
 Petropavlovsk-Kamchatskiy,
 Russia (via Tsugaru-Kaikyo),
 2,136
-46 INISHTRAHULL, IRELAND
-* JUNCTION POINT.—See Preface for use of junction points
 Port Darwin, Australia (via
 Molucca Passage), 3,072
 Qingdao, China, 333
@@ -12889,8 +12801,6 @@ ISTANBUL, TURKEY
 Junction Points*
 Port Said, Egypt, 804
 Strait of Gibraltar, 1,821
-JAKARTA, INDONESIA 47
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Alexandria, Egypt, 742
 Alexandroupolis, Greece, 200
@@ -13193,8 +13103,6 @@ Channel), 1,563
 Dagu, China, 3,088
 Hakodate, Japan, 3,468
 Ho Chi Minh, Vietnam, 1,025
-48 JAKOBSHAVN, GREENLAND
-* JUNCTION POINT.—See Preface for use of junction points
 Hong Kong, China, 1,782
 Iloilo, Philippines (via Lumbucan
 Channel and Selat Gaspar),
@@ -13460,8 +13368,6 @@ Madras, India, 276
 Malacca, Malaysia, 1,478
 Penang, Malaysia, 1,273
 Sabang, Indonesia, 1,019
-KASIM MARINE TERMINAL, INDONESIA 49
-* JUNCTION POINT.—See Preface for use of junction points
 KALAMAI, GREECE
 (37°01'02"N., 22°06'38"E.) to:
 Junction Points*
@@ -13720,8 +13626,6 @@ Yokohama, Japan, 144
 KASIM MARINE TERMINAL,
 INDONESIA
 (1°18'00"S., 131°01'00"E.) to:
-50 KAUNAKAKAI, HAWAII, U.S.A.
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Honshu, Japan, 2,724
 Selat Lombok, Indonesia, 1,260
@@ -13990,8 +13894,6 @@ distance via Fjord add 1 l/2 miles to
 Nord-Ostsee-Kanal (East
 Entrance). For distance via Nord-
 Ostsee-Kanal add 2 1/2 miles to
-KLAKSVIG, FAROE ISLANDS 51
-* JUNCTION POINT.—See Preface for use of junction points
 Nord-Ostsee-Kanal (East
 Entrance).
 KIIRE, JAPAN
@@ -14276,8 +14178,6 @@ Grand Banks South, 1,925
 Inishtrahull, Ireland, 410
 Montreal, Canada (via Strait of
 Belle Isle), 2,481
-52 KOBE, JAPAN
-* JUNCTION POINT.—See Preface for use of junction points
 Pentland Firth, Scotland, 233
 Punta Arenas, Chile, 7,887
 Skagens Odde, Denmark, 864
@@ -14554,8 +14454,6 @@ Ho Chi Minh, Vietnam, 419
 Makassar, Sulawesi, 1,584
 KONIYA, RYUKYU ISLANDS
 (28°08'30"N., 129°18'45"E.) to:
-LA CEIBA, HONDURAS 53
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Honolulu, Hawaii, U.S.A., 3,948
 Midway Island, 2,799
@@ -14806,8 +14704,6 @@ Ports
 Colon, Panama, 666
 New York, New York, U.S.A.,
 1,743
-54 LA GUAIRA, VENEZUELA
-* JUNCTION POINT.—See Preface for use of junction points
 Puerto Cabezas, Nicaragua, 316
 LA GUAIRA, VENEZUELA
 (10°37'00"N., 66°56'30"W.) to:
@@ -15094,8 +14990,6 @@ LA SPEZIA, ITALY
 Junction Points*
 Port Said, Egypt, 1,391
 Strait of Gibraltar, 891
-LAVAN ISLAND, IRAN 55
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Alexandria, Egypt, 1,280
 Algiers, Algeria, 540
@@ -15361,8 +15255,6 @@ Abadan, Iran, 349
 Aden, Yemen, 1,578
 Assab, Ethiopia, 1,722
 Bandar Abbas, Iran, 198
-56 LAZARO CARDENAS, MEXICO
-* JUNCTION POINT.—See Preface for use of junction points
 Belawan, Indonesia, 3,175,
 Bombay, India, 1,198
 Calcutta, India, 3,183
@@ -15618,8 +15510,6 @@ Panama, Panama, 1,060
 Punta Arenas, Chile, 5,720
 Strait of Gibraltar, 3,305
 Straits of Florida, 1,126
-LO-HSING-TA MAO-TI, CHINA 57
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Baltimore, Maryland, U.S.A.,
 1,454
@@ -15907,8 +15797,6 @@ Ports
 Aleksandrovsk-Sakhalinskiy,
 Russia, 1,868
 Apra, Guam, 1,617
-58 LOBITO, ANGOLA
-* JUNCTION POINT.—See Preface for use of junction points
 Busan, South Korea, 762
 Cebu, Philippines (via Balintang
 Channel), 1,051
@@ -16190,8 +16078,6 @@ Esmeraldas, Ecuador, 2,388
 Guayaquil, Ecuador, 2,155
 Guaymas, Mexico, 4,442
 Iquique, Chile, 1,033
-MAKASSAR, SULAWESI 59
-* JUNCTION POINT.—See Preface for use of junction points
 Monterey, California, U.S.A.,
 1,202
 Pisco, Peru, 1,432
@@ -16446,8 +16332,6 @@ Indonesia, 399
 Belawan, Indonesia, 1,439
 Davao, Philippines, 929
 Kompong Som, Cambodia, 1,584
-60 MALABO, EQUATORIAL GUINEA
-* JUNCTION POINT.—See Preface for use of junction points
 Manila, Philippines (via Mindoro
 Strait and Sibutu Passage),
 1,232
@@ -16724,8 +16608,6 @@ Los Angeles, California, U.S.A.
 (via San Bernardino Strait),
 6,588
 Makassar, Sulawesi (via Sibutu
-MARSEILLE, FRANCE 61
-* JUNCTION POINT.—See Preface for use of junction points
 Passage), 1,232
 Malakal, Palau Islands (via San
 Bernardino Strait), 1,044
@@ -17001,8 +16883,6 @@ Bonifacio, Corsica, 213
 Brindisi, Italy, 844
 Cagliari, Sardinia, 360
 Cartagena, Spain, 460
-62 MASAN, SOUTH KOREA
-* JUNCTION POINT.—See Preface for use of junction points
 Catania, Sicily, 627
 Ceuta, Morocco, 692
 Civitavecchia, Italy, 316
@@ -17268,8 +17148,6 @@ Toulon, France, 1,036
 Tubruq, Libya, 368
 MELBOURNE, AUSTRALIA
 (37°49'15"S., 144°56'00"E.) to:
-MIDWAY ISLAND, NORTH PACIFIC 63
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Cape Leeuwin, Australia, 1,497
 Panama, Panama (via Foveaux
@@ -17542,8 +17420,6 @@ London, England, 293
 MIDWAY ISLAND, NORTH
 PACIFIC
 (28°13'00"N., 177°22'00"W.) to:
-64 MIIKE, JAPAN
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Panama, Panama, 5,707
 Punta Arenas, Chile, 7,382
@@ -17798,8 +17674,6 @@ MOBILE, ALABAMA, U.S.A.
 Junction Points*
 Straits of Florida, 471
 Yucatan Channel, 558
-MONROVIA, LIBERIA 65
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Belize, Belize, 845
 Bocas del Toro, Panama, 1,340
@@ -18061,8 +17935,6 @@ Porto Grande, Cape Verde Islands,
 1,069
 Sekondi, Ghana, 599
 Takoradi, Ghana, 597
-66 MONTEGO BAY, JAMAICA
-* JUNCTION POINT.—See Preface for use of junction points
 MONTEGO BAY, JAMAICA
 (18°29'15"N., 77°57'30"W.) to:
 Junction Points*
@@ -18343,8 +18215,6 @@ AFRICA
 Mosselbaai.
 MOSTAGANEM, ALGERIA
 (35°56'12"N., 0°04'22"E.) to:
-NAKHODKA, RUSSIA 67
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Port Said, Egypt, 1,678
 Strait of Gibraltar, 283
@@ -18622,8 +18492,6 @@ Shanghai, China, 515
 Yokohama, Japan, 839
 NAKHODKA, RUSSIA
 (42°49'07"N., 132°53'52"E.) to:
-68 NAKNEK, ALASKA, U.S.A.
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Busan, South Korea, 508
 Hakodate, Japan, 62
@@ -18894,7 +18762,6 @@ Junction Points*
 Honshu, Japan, 1,770
 Selat Lombok, Indonesia, 1,332
 NEW YORK, NEW YORK, U.S.A. 69
-* JUNCTION POINT.—See Preface for use of junction points
 Panama, Panama, 9,376
 Punta Arenas, Chile, 8,880
 Singapore, 1,410
@@ -19149,8 +19016,6 @@ Seattle, Washington, U.S.A., 126
 NEW YORK, NEW YORK,
 U.S.A.
 (40°42'00"N.,74°01'00"W.) to:
-70 NEWARK, NEW JERSEY, U.S.A.
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Bishop Rock, England, 2,937
 Cape of Good Hope, South
@@ -19449,7 +19314,6 @@ Hong Kong, China, 678
 Kao-hsiung Kang, Taiwan, 895
 Manila, Philippines, 706
 NORFOLK, VIRGINIA, U.S.A. 71
-* JUNCTION POINT.—See Preface for use of junction points
 NICE, FRANCE
 (43°41'40"N., 7°17'07"E.) to:
 Junction Points*
@@ -19746,8 +19610,6 @@ Fort de France, Martinique, 1,597
 Freetown, Sierra Leone, 3,821
 Funchal, Madeira Island, 2,907
 Georgetown, Guyana, 2,090
-72 NORRKOPING, SWEDEN
-* JUNCTION POINT.—See Preface for use of junction points
 Guantanamo, Cuba, 1,117
 Halifax, Canada, 790
 Hamilton, Bermuda, 683
@@ -20040,8 +19902,6 @@ St. Marc, Haiti, 306
 NUKUALOFA, TONGA
 ISLANDS
 (21°07'30"S., 175°12'00"W.) to:
-OOSTENDE, BELGIUM 73
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Panama, Panama, 5,953
 Ports
@@ -20313,8 +20173,6 @@ Egersund, Norway, 447
 Emden, Germany, 242
 Esbjerg, Denmark, 328
 Hartlepool, England, 265
-74 OPORTO, PORTUGAL
-* JUNCTION POINT.—See Preface for use of junction points
 Hull, England, 207
 Inverness, Scotland, 510
 Kristiansand, Norway, 453
@@ -20598,7 +20456,6 @@ Sandhamnsleden), 689
 Stockholm, Sweden (via Store
 Baelt), 819
 PALM BEACH, FLORIDA, U.S.A. 75
-* JUNCTION POINT.—See Preface for use of junction points
 Swinoujscie, Poland (via Store
 Baelt), 503
 Swinoujscie, Poland (via The
@@ -20887,8 +20744,6 @@ Casablanca, Morocco, 3,709
 Dakar, Senegal, 3,585
 Halifax, Canada, 1,336
 Hamilton, Bermuda, 862
-76 PALMA, BALEARIC ISLANDS
-* JUNCTION POINT.—See Preface for use of junction points
 Kingston, Jamaica, 836
 La Habana, Cuba, 302
 Nassau, Bahamas, 328
@@ -21207,8 +21062,6 @@ Pago Pago, American Samoa,
 Papeete, French Polynesia, 4,493
 Paramaribo, Suriname, 1,691
 Paranagua, Brazil, 4,607
-PARANAGUA, BRAZIL 77
-* JUNCTION POINT.—See Preface for use of junction points
 Pearl Harbor, Hawaii, U.S.A.,
 4,692
 Pedregal, Panama, 308
@@ -21511,8 +21364,6 @@ Wilmington, North Carolina,
 U.S.A., 2,148
 PARANAGUA, BRAZIL
 (25°30'00"S., 48°31'00"W.) to:
-78 PARANAM, SURINAME
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Cape of Good Hope, South
 Africa, 3,496
@@ -21789,8 +21640,6 @@ U.S.A., 3,506
 Charlotte Amalie, Virgin Islands,
 3,616
 Churchill, Canada (via 75 miles off
-PETROPAVLOVSK- KAMCHATSKIY, RUSSIA 79
-* JUNCTION POINT.—See Preface for use of junction points
 Kap Farvel), 2,820
 Cienfuegos, Cuba, 4,229
 Cobh, Ireland, 578
@@ -22104,8 +21953,6 @@ Strait), 2,215
 Weonsan, North Korea, 1,609
 Xiamen, China (via La Perouse
 Strait), 2,596
-80 PEVEK, RUSSIA
-* JUNCTION POINT.—See Preface for use of junction points
 Xiamen, China (via Osumi
 Kaikyo), 2,684
 Xiamen, China (via Tsugaru-
@@ -22407,8 +22254,6 @@ Palermo, Sicily (via Corinth
 Canal), 531
 Palma, Balearic Islands (south of
 Greece), 1,131
-PONAPE, CAROLINE ISLANDS 81
-* JUNCTION POINT.—See Preface for use of junction points
 Palma, Balearic Islands (via
 Corinth Canal), 1,049
 Preveza, Greece, 197
@@ -22690,8 +22535,6 @@ Apra, Guam, 901
 Auckland, New Zealand, 2,813
 Avarua, Cook Islands, 3,001
 Brisbane, Australia, 2,108
-82 PONCE, PUERTO RICO
-* JUNCTION POINT.—See Preface for use of junction points
 Callao, Peru, 7,515
 Hakodate, Japan, 2,298
 Hobart, Tasmania, 3,130
@@ -22965,8 +22808,6 @@ Ports
 Cienfuegos, Cuba (via Yucatan
 Peninsula), 976
 Coatzacoalcos, Mexico, 708
-PORT DARWIN, AUSTRALIA 83
-* JUNCTION POINT.—See Preface for use of junction points
 Colon, Panama, 1,485
 La Habana, Cuba, 749
 Nuevitas, Cuba, 1,055
@@ -23267,8 +23108,6 @@ San Diego, California, U.S.A.,
 San Francisco, California, U.S.A.,
 6,984
 Seattle, Washington, U.S.A., 6,892
-84 PORT DES GALETS, REUNION ISLAND
-* JUNCTION POINT.—See Preface for use of junction points
 Shanghai, China, 2,804
 Shimonoseki, Japan (via Selat
 Sele), 2,883
@@ -23529,8 +23368,6 @@ Baltimore, Maryland, U.S.A.,
 Barcelona, Venezuela, 218
 Basseterre, Saint Kitts and Nevis,
 419
-PORT SAID, EGYPT 85
-* JUNCTION POINT.—See Preface for use of junction points
 Belem, Brazil, 1,212
 Belize, Belize, 1,637
 Boston, Massachusetts, U.S.A.,
@@ -23845,7 +23682,6 @@ Qabis, Tunisia, 1,149
 Rangoon, Burma, 4,696
 Ras as Sidr, Egypt, 112
 86 PORT ST. LOUIS DU RHONE, FRANCE
-* JUNCTION POINT.—See Preface for use of junction points
 Ras Gharib, Egypt, 187
 Ras Tannurah, Saudi Arabia, 3,162
 Reggio Di Calabria, Sicily, 939
@@ -24115,8 +23951,6 @@ ITALY
 (41°20'00"N., 16°17'30"E.) to:
 Junction Points*
 Port Said, Egypt, 1,023
-PRIMORSK, RUSSIA 87
-* JUNCTION POINT.—See Preface for use of junction points
 Strait of Gibraltar, 1,398
 Ports
 Ancona, Italy, 199
@@ -24378,8 +24212,6 @@ PRIMORSK, RUSSIA
 Ostrov Rondo pilot station.
 Subtract 1 mile from Vysotsk
 distances.
-88 PRINCE RUPERT, CANADA
-* JUNCTION POINT.—See Preface for use of junction points
 PRINCE RUPERT, CANADA
 (54°19'00"N., 130°20'00"W.) to:
 Junction Points*
@@ -24640,8 +24472,6 @@ PUERTO MANATI, CUBA
 Junction Points*
 Panama, Panama, 959
 Straits of Florida, 397
-PUNTA ARENAS, CHILE 89
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 La Habana, Cuba, 353
 New York, New York, U.S.A.,
@@ -24917,8 +24747,6 @@ Rabaul, Papua New Guinea (via
 30°S.), 7,980
 Recife, Brazil, 3,252
 Rio de Janeiro, Brazil, 2,238
-90 PUNTA CARDON, VENEZUELA
-* JUNCTION POINT.—See Preface for use of junction points
 Rio Gallegos, Argentina, 202
 Rio Grande, Argentina, 220
 Salina Cruz, Mexico, 4,478
@@ -25189,8 +25017,6 @@ Junction Points*
 Panama, Panama, 415
 Ports
 Acapulco, Mexico, 1,043
-RAS AL KETHIB, YEMEN 91
-* JUNCTION POINT.—See Preface for use of junction points
 Callao, Peru, 1,387
 QUEQUEN, ARGENTINA
 (38°35'00"S., 58°41'30"W.) to:
@@ -25444,8 +25270,6 @@ RAS AL KETHIB, YEMEN
 Junction Points*
 Cape of Good Hope, South Africa,
 4,398
-92 RAS AL MISHAB, SAUDI ARABIA
-* JUNCTION POINT.—See Preface for use of junction points
 Cape Leeuwin, Australia, 5,198
 Selat Lombok, Indonesia, 4,660
 Port Said, Egypt, 1,149
@@ -25725,8 +25549,6 @@ Montreal, Canada (via Strait of
 Belle Isle), 3,060
 Panama, Panama, 4,338
 Pentland Firth, Scotland, 1,096
-ROCKHAMPTON, AUSTRALIA 93
-* JUNCTION POINT.—See Preface for use of junction points
 Punta Arenas, Chile, 6,788
 Strait of Gibraltar, 725
 Ports
@@ -26009,8 +25831,6 @@ AUSTRALIA
 (23°23'00"S., 150°32'00"E.) to:
 Junction Points*
 Torres Strait, Australia, 1,034
-94 ROMANA, DOMINICAN REPUBLIC
-* JUNCTION POINT.—See Preface for use of junction points
 Wilson Promontory, Australia,
 1,213
 Ports
@@ -26262,7 +26082,6 @@ SAKAIDE, JAPAN
 Ports
 Hirohata, Japan, 89
 SAN DIEGO, CALIFORNIA, U.S.A. 95
-* JUNCTION POINT.—See Preface for use of junction points
 Kobe, Japan, 107
 Kure, Japan, 107
 Shimonoseki, Japan, 169
@@ -26535,8 +26354,6 @@ Naknek, Alaska, U.S.A., 2,788
 Noumea, New Caledonia, 5,491
 Pago Pago, American Samoa,
 4,176
-96 SAN FELIX, VENEZUELA
-* JUNCTION POINT.—See Preface for use of junction points
 Papeete, French Polynesia, 3,554
 Pearl Harbor, Hawaii, U.S.A.,
 2,285
@@ -26835,8 +26652,6 @@ Fort de France, Martinique, 385
 Fort Liberte, Haiti, 373
 Freetown, Sierra Leone, 3,141
 Funchal, Madeira Island, 2,773
-SAINT ANTIOCO PONTI, SARDINIA 97
-* JUNCTION POINT.—See Preface for use of junction points
 Georgetown, Guyana, 876
 Guantanamo, Cuba (via north of
 Hispaniola), 537
@@ -27107,8 +26922,6 @@ Shanghai, China, 270
 SAINT ANTIOCO PONTI,
 SARDINIA
 (39°03'12"N., 8°28'12"E.) to:
-98 SANTA BARBARA, CALIFORNIA, U.S.A.
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Port Said, Egypt, 1,282
 Strait of Gibraltar, 715
@@ -27376,8 +27189,6 @@ Fastnet Rock, Ireland, 3,491
 Inishtrahull, Ireland (via Mona
 Passage), 3,641
 Montreal, Canada (via Mona
-SAVONA, ITALY 99
-* JUNCTION POINT.—See Preface for use of junction points
 Passage), 2,579
 Panama, Panama, 846
 Pentland Firth, Scotland, 3,820
@@ -27664,8 +27475,6 @@ Port Said, Egypt, 1,437
 Strait of Gibraltar, 852
 Ports
 Alexandria, Egypt, 1,326
-100 SAYDA, LEBANON
-* JUNCTION POINT.—See Preface for use of junction points
 Algiers, Algeria, 518
 Alicante, Spain, 549
 Ancona, Italy, 1,028
@@ -27964,8 +27773,6 @@ Mogpo, South Korea, 2,725
 Nampo, North Korea, 2,946
 Port Darwin, Australia (south of
 Pulau Roti), 926
-SEVILLA, SPAIN 101
-* JUNCTION POINT.—See Preface for use of junction points
 Port Kembla, Australia, 3,388
 Port Refuge, Cocos Islands, 1,132
 Sabang, Indonesia, 1,575
@@ -28248,8 +28055,6 @@ Dakar, Senegal, 1,527
 Funchal, Madeira Island, 611
 Horta, Azores, 1,073
 Lisboa, Portugal, 253
-102 SEWARD, ALASKA, U.S.A.
-* JUNCTION POINT.—See Preface for use of junction points
 Norfolk, Virginia, U.S.A., 3,303
 Porto Grande, Cape Verde Islands,
 1,589
@@ -28540,7 +28345,6 @@ Nagoya, Japan, 143
 Shimonoseki, Japan, 469
 Yokohama, Japan, 116
 SINGAPORE 103
-* JUNCTION POINT.—See Preface for use of junction points
 SHIMONOSEKI, JAPAN
 (33°57'00"N., 130°56'35"E.) to:
 Junction Points*
@@ -28824,8 +28628,6 @@ Indonesia, (via Selat Riouw),
 1,053
 Bandar Abbas, Iran, 3,381
 Bandar Khomeini, Iran, 3,872
-104 SINT NICOLAASHAVEN, ARUBA
-* JUNCTION POINT.—See Preface for use of junction points
 Bandjermasin, Kalimantan,
 Indonesia, 830
 Bangkok, Thailand, 842
@@ -29135,8 +28937,6 @@ Noumea, New Caledonia, 5,613
 Pago Pago, American Samoa,
 4,635
 Papeete, French Polynesia, 4,537
-SLAGEN, NORWAY 105
-* JUNCTION POINT.—See Preface for use of junction points
 Petropavlovsk-Kamchatskiy,
 Russia, 2,314
 Port Darwin, Australia, 6,338
@@ -29428,8 +29228,6 @@ Stenungsund, Sweden, 52
 Varberg, Sweden, 94
 SLAGEN, NORWAY
 (59°20'00"N., 10°31'02"E.) to:
-106 SLITE, SWEDEN
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Bishop Rock, England (via Dover
 Strait), 915
@@ -29697,7 +29495,6 @@ Greece), 1,334
 Odessa, Ukraine (via Corinth
 Canal), 1,235
 ST. PETERSBURG, FLORIDA, U.S.A. 107
-* JUNCTION POINT.—See Preface for use of junction points
 Oran, Algeria, 1,275
 Palermo, Sicily, 578
 Palma, Balearic Islands, 1,096
@@ -29978,7 +29775,6 @@ U.S.A.
 Subtract 15 miles from Tampa
 distances.
 108 ST. PIERRE, MARTINIQUE
-* JUNCTION POINT.—See Preface for use of junction points
 ST. PIERRE, MARTINIQUE
 (14°44'30"N., 61°11'15"W.) to:
 Ports
@@ -30271,7 +30067,6 @@ Kangerluarsoruseq, Greenland,
 Kavala, Greece, 1,706
 Keflavik, Iceland, 1,947
 STRAITS OF FLORIDA 109
-* JUNCTION POINT.—See Preface for use of junction points
 Kerch, Ukraine, 2,256
 Kerkira, Greece, 1,324
 Key West, Florida, U.S.A., 3,949
@@ -30597,8 +30392,6 @@ Santa Lucia, Cuba, 120
 Santiago de Cuba, Cuba (via
 Windward Passage), 676
 Santo Domingo, Dominican
-110 STRALSUND, GERMANY
-* JUNCTION POINT.—See Preface for use of junction points
 Republic (via Mona Passage),
 1,036
 Santo Domingo, Dominican
@@ -30860,8 +30653,6 @@ U.S.A.
 (51°51'30"N., 176°38'00"W.) to:
 Junction Points*
 Panama, Panama, 5,586
-TAMATAVE, MADAGASCAR 111
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Dutch Harbor, Alaska, U.S.A., 407
 Honolulu, Hawaii, U.S.A., 1,945
@@ -31135,8 +30926,6 @@ Malacca, Malaysia, 3,560
 Maputo, Mozambique, 1,242
 Penang, Malaysia, 3,387
 Port Darwin, Australia, 4,702
-112 TAMPA, FLORIDA, U.S.A.
-* JUNCTION POINT.—See Preface for use of junction points
 Port Louis, Mauritius, 474
 Sabang, Indonesia, 3,076
 Zanzibar, Tanzania, 1,116
@@ -31417,8 +31206,6 @@ Junction Points*
 Fastnet Rock, Ireland, 125
 Inishtrahull, Ireland, 250
 Pentland Firth, Scotland, 509
-THESSALONIKI, GREECE 113
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Belfast, Northern Ireland (via north
 of Ireland), 338
@@ -31693,8 +31480,6 @@ Trieste, Italy (via Corinth Canal),
 Tunis, Tunisia, 945
 Valencia, Spain, 1,452
 Valletta, Malta, 732
-114 THORSHAVN, FAROE ISLANDS
-* JUNCTION POINT.—See Preface for use of junction points
 Venezia, Italy (south of Greece),
 1,064
 Venezia, Italy (via Corinth Canal),
@@ -31962,8 +31747,6 @@ Skagens Odde, Denmark, 624
 Ports
 Aberdeen, Scotland, 365
 Bergen, Norway, 372
-TRONDHEIM, NORWAY 115
-* JUNCTION POINT.—See Preface for use of junction points
 Reykjavik, Iceland, 516
 TOULON, FRANCE
 (43°06'45"N., 5°35'00"E.) to:
@@ -32239,8 +32022,6 @@ Junction Points*
 Bishop Rock, England (via English
 Channel), 1,202
 Ile d’Ouessant, France (via Dover
-116 TRUK, CAROLINE ISLANDS
-* JUNCTION POINT.—See Preface for use of junction points
 Strait), 1,188
 Nord-Ostsee-Kanal (East
 Entrance), Germany, 791
@@ -32509,8 +32290,6 @@ Honavar, India, 549
 New Mangalore, India, 429
 Rangoon, Burma, 1,179
 Trincomalee, Sri Lanka, 245
-VALENCIA, SPAIN 117
-* JUNCTION POINT.—See Preface for use of junction points
 Victoria, Seychelles, 1,583
 TUXPAN, MEXICO
 (20°58'00"N., 97°25'00"W.) to:
@@ -32758,8 +32537,6 @@ Gibraltar, 386
 Haifa, Israel, 1,767
 Iraklion, Kriti, 1,252
 Istanbul, Turkey (south of
-118 VALLETTA, MALTA
-* JUNCTION POINT.—See Preface for use of junction points
 Greece), 1,558
 Istanbul, Turkey (via Corinth
 Canal), 1,528
@@ -33057,8 +32834,6 @@ Nice, France, 1,462
 Sibenik, Croatia, 1,140
 Tangier, Morocco, 1,973
 Venezia, Italy, 1,318
-VIGO, SPAIN 119
-* JUNCTION POINT.—See Preface for use of junction points
 VEJLE, DENMARK
 (55°42'15"N., 9°34'00"E.) to:
 Junction Points*
@@ -33330,8 +33105,6 @@ Freetown, Sierra Leone, 2,223
 Funchal, Madeira Island, 702
 Halifax, Canada (via Cape Race),
 2,439
-120 VILA REAL DE SANTO ANTONIO, PORTUGAL
-* JUNCTION POINT.—See Preface for use of junction points
 Horta, Azores, 938
 Huelva, Spain, 453
 Lisboa, Portugal, 247
@@ -33600,8 +33373,6 @@ Ports
 Ajaccio, Corsica (south of
 Greece), 1,056
 Ajaccio, Corsica (via Corinth
-WARRENPOINT, NORTHERN IRELAND 121
-* JUNCTION POINT.—See Preface for use of junction points
 Canal), 1,014
 Alexandria, Egypt, 620
 Alexandroupolis, Greece, 205
@@ -33881,8 +33652,6 @@ Inishtrahull, Ireland, 161
 Ports
 Ardrossan, Scotland, 146
 Avonmouth, England, 201
-122 WASHINGTON, DISTRICT OF COLUMBIA, U.S.A.
-* JUNCTION POINT.—See Preface for use of junction points
 Cardiff, Wales, 287
 Port Talbot, Wales, 265
 Stornoway, Scotland, 353
@@ -34159,8 +33928,6 @@ Ports
 Melbourne, Australia, 665
 Port Adelaide, Australia, 245
 Rabaul, Papua New Guinea, 2,957
-WYNDHAM, AUSTRALIA 123
-* JUNCTION POINT.—See Preface for use of junction points
 WILHELMSHAVEN,
 GERMANY
 (53°31'00"N., 8°08'30"E.) to:
@@ -34448,8 +34215,6 @@ WYNDHAM, AUSTRALIA
 (15°27'30"S., 128°06'00"E.) to:
 Junction Points*
 Selat Wetar, Indonesia, 431
-124 XIAMEN, CHINA
-* JUNCTION POINT.—See Preface for use of junction points
 Ports
 Fremantle, Australia, 1,780
 Port Darwin, Australia, 274
@@ -34723,8 +34488,6 @@ Busan, South Korea, 97
 Gunsan, South Korea, 245
 Kimchaek, North Korea, 439
 Mogpo, South Korea, 151
-YUMURTALIK, TURKEY 125
-* JUNCTION POINT.—See Preface for use of junction points
 Rajin, North Korea, 535
 Shimonoseki, Japan, 182
 YOKKAICHI, JAPAN
@@ -35036,8 +34799,6 @@ Veracruz, Mexico, 654
 Willemstad, Curacao, 1,094
 YUMURTALIK, TURKEY
 (36°45'00"N., 35°45'00"E.) to:
-126 ZADAR, CROATIA
-* JUNCTION POINT.—See Preface for use of junction points
 Junction Points*
 Port Said, Egypt, 372
 Strait of Gibraltar, 1,672
