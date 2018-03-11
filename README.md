@@ -21,11 +21,11 @@ Some ports are considered special cases, that is when they dont have a list of j
 ```
 ABENRA, DENMARK
 (55°01'36"N., 9°25'50"E.) to:
-*Junction Points*
+Junction Points*
 Nord-Ostsee-Kanal (East
 Entrance), Germany, 207
 Skagens Odde, Denmark, 87
-*Ports*
+Ports
 Aarhus, Denmark, 114
 Helsinki, Finland, 666
 Kobenhavn, Denmark, 196
@@ -43,3 +43,9 @@ ABADAN, IRAN
 Subtract 30 miles from Al Basrah
 distances.
 ```
+
+The special cases do not have a list of junction points or ports.
+
+## TODO
+- [ ] Treat the special cases better - apply the corrections mentioned
+- [ ] Unify the formatting of junction point names between the `junction_points.json` and `PUB151_distances.json`
