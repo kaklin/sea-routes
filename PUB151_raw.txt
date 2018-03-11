@@ -5282,7 +5282,7 @@ Plymouth, England, 244
 Portland, England, 170
 Stavanger, Norway, 515
 CALCUTTA, INDIA
-(22°33'00"N., 88°l9'00"E.) to:
+(22°33'00"N., 88°19'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa
 (via east of Madagascar), 5,444
@@ -6306,7 +6306,7 @@ Melilla, Morocco, 339
 Savona, Italy, 468
 Tubruq, Libya, 1,251
 CASTRIES, ST. LUCIA
-(14°0l'00"N., 61°00'00"W.) See
+(14°01'00"N., 61°00'00"W.) See
 Port Castries.
 CASTRO-URDIALES, SPAIN
 (43°22'40"N., 3°12'15"W.) to:
@@ -6944,7 +6944,7 @@ Manila, Philippines, 947
 Shanghai, China, 527
 Yokohama, Japan, 830
 CHING-TAO, CHINA
-(36°05'30"N., 120°l9'00"E.) See
+(36°05'30"N., 120°19'00"E.) See
 Qingdao, China.
 CHIN-HUANG-TAO, CHINA
 (39°55'00"N., 119°36'30"E.) See
@@ -8369,7 +8369,7 @@ Rijeka, Croatia, 276
 Sibenik, Croatia, 144
 Venezia, Italy, 320
 DUDINKA, RUSSIA
-(69°24'00"N., 86°l0'00"E.) Add
+(69°24'00"N., 86°10'00"E.) Add
 298 miles to Dikson distances.
 DUMAI, INDONESIA
 (1°42'00"N., 101°28'00"E.) to:
@@ -8973,7 +8973,7 @@ GREENLAND
 Kangerluarsoruseq, Greenland.
 FALL RIVER,
 MASSACHUSETTS, U.S.A.
-(41°42'21"N., 71°l0'00"W.) to:
+(41°42'21"N., 71°10'00"W.) to:
 Junction Points*
 Cape of Good Hope, South Africa,
 6,732
@@ -9163,7 +9163,7 @@ Cherbourg, France, 79
 Plymouth, England, 183
 Rotterdam, Netherlands, 228
 FELIXSTOWE, ENGLAND
-(51°56'56"N., 1°l9'00"E.) to:
+(51°56'56"N., 1°19'00"E.) to:
 Junction Points*
 Bishop Rock, England, 377
 Ile d’Ouessant, France, 303
@@ -10477,7 +10477,7 @@ Gdynia, Poland, 361
 Goteborg, Sweden, 102
 Lubeck, Germany, 169
 GRIMSBY, ENGLAND
-(53°36'00"N., 0°0l'00"W.)
+(53°36'00"N., 0°01'00"W.)
 Subtract 14 miles from Hull
 distances.
 GRIMSTAD, NORWAY
@@ -11653,7 +11653,7 @@ HONFLEUR, FRANCE
 (49°25'00"N., 0°14'00"E.) See Le
 Havre.
 HONG KONG, CHINA
-(22°17'00"N., 114°l0'00"E.) to:
+(22°17'00"N., 114°10'00"E.) to:
 Junction Points*
 Selat Lombok, Indonesia (via
 Linapacan Strait), 2,029
@@ -12923,7 +12923,7 @@ Reykjavik, Iceland, 887
 San Juan, Puerto Rico, 2,720
 St. John’s, Canada, 849
 IWAKUNI, JAPAN
-(34°l0'00"N., 132°17'00"E.) to:
+(34°10'00"N., 132°17'00"E.) to:
 Ports
 Apra, Guam, 1,437
 Ho Chi Minh, Vietnam, 2,108
@@ -13589,7 +13589,7 @@ Slagen, Norway (via The Sound),
 Varberg, Sweden (via The Sound),
 371
 KARLSKRONA, SWEDEN
-(56°l0'00"N., 15°36'00"E.) to:
+(56°10'00"N., 15°36'00"E.) to:
 Junction Points*
 Nord-Ostsee-Kanal (East
 Entrance), Germany, 235
@@ -15380,7 +15380,7 @@ Emden, Germany, 504
 Hull, England, 427
 Oslo, Norway, 481
 LES CAYES, HAITI
-(18°l0'00"N., 73°45'00"W.) to:
+(18°10'00"N., 73°45'00"W.) to:
 Junction Points*
 Panama, Panama, 688
 Straits of Florida, 738
@@ -16152,7 +16152,7 @@ Ports
 Brisbane, Australia, 804
 Wellington, New Zealand, 2,102
 LULEA, SWEDEN
-(65°34'30"N., 22°l0'00"E.) to:
+(65°34'30"N., 22°10'00"E.) to:
 Junction Points*
 Nord-Ostsee-Kanal (East
 Entrance), Germany, 875
@@ -16849,7 +16849,7 @@ Messina, Sicily, 164
 Tarabulus, Libya, 191
 Tunis, Tunisia, 246
 MARSEILLE, FRANCE
-(43°l9'10"N., 5°21'17"E.) to:
+(43°19'10"N., 5°21'17"E.) to:
 Junction Points*
 Port Said, Egypt, 1,518
 Strait of Gibraltar, 711
@@ -18186,7 +18186,7 @@ Subtract 19 miles from Oslo
 distances.
 MOSSELBAAI, SOUTH
 AFRICA
-(34°l0'00"S., 22°09'00"E.) to:
+(34°10'00"S., 22°09'00"E.) to:
 Junction Points*
 Cape of Good Hope, South
 Africa, 206
@@ -18200,7 +18200,7 @@ Port Darwin, Australia, 5,929
 Sabang, Indonesia, 4,785
 MOSSELBAY, SOUTH
 AFRICA
-(34°l0'00"S., 22°09'00"E.) See
+(34°10'00"S., 22°09'00"E.) See
 Mosselbaai.
 MOSTAGANEM, ALGERIA
 (35°56'12"N., 0°04'22"E.) to:
@@ -18750,7 +18750,6 @@ NASIPIT, PHILIPPINES
 Junction Points*
 Honshu, Japan, 1,770
 Selat Lombok, Indonesia, 1,332
-NEW YORK, NEW YORK, U.S.A. 69
 Panama, Panama, 9,376
 Punta Arenas, Chile, 8,880
 Singapore, 1,410
@@ -19004,7 +19003,7 @@ Prince Rupert, Canada, 492
 Seattle, Washington, U.S.A., 126
 NEW YORK, NEW YORK,
 U.S.A.
-(40°42'00"N.,74°01'00"W.) to:
+(40°42'00"N., 74°01'00"W.) to:
 Junction Points*
 Bishop Rock, England, 2,937
 Cape of Good Hope, South
@@ -25184,7 +25183,7 @@ Gdynia, Poland, 403
 Stockholm, Sweden, 604
 Swinoujscie, Poland, 266
 RANGOON, BURMA
-(16°46'00"N., 96°l0'00"E.) to:
+(16°46'00"N., 96°10'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa
 (east of Madagascar), 5,443
@@ -25833,7 +25832,7 @@ Oslo, Norway (via The Sound),
 366
 ROOSEVELT ROADS,
 PUERTO RICO
-(18°l0'00"N., 65°34'00"W.) to:
+(18°10'00"N., 65°34'00"W.) to:
 Junction Points*
 Panama, Panama, 1,054
 Straits of Florida, 1,063
@@ -28288,7 +28287,7 @@ SHEERNESS, ENGLAND
 Subtract 31 miles from London
 distances.
 SHELBURNE, CANADA
-(43°45'00"N., 65°l9'00"W.) to:
+(43°45'00"N., 65°19'00"W.) to:
 Junction Points*
 Montreal, Canada, 1,050
 Ports
@@ -28412,7 +28411,7 @@ Osaka, Japan, 116
 Shimonoseki, Japan, 152
 Yokohama, Japan, 449
 SHIOGAMA, JAPAN
-(38°l9'00"N., 141°03'00"E.) to:
+(38°19'00"N., 141°03'00"E.) to:
 Ports
 Aomori, Japan, 311
 Hakodate, Japan, 281
@@ -30650,7 +30649,7 @@ Oslo, Norway (via The Sound),
 Randers, Denmark, 266
 Sonderborg, Denmark, 215
 SYDNEY, AUSTRALIA
-(33°51'30"S., 151°l3'00"E.) to:
+(33°51'30"S., 151°13'00"E.) to:
 Junction Points*
 Panama, Panama, 7,674
 Punta Arenas, Chile (via forty nine°S.),
@@ -32373,7 +32372,7 @@ San Diego, California, U.S.A.,
 2,791
 Seattle, Washington, U.S.A., 2,023
 UNGGI, NORTH KOREA
-(42°l9'00"N., 130°24'45"E.) to:
+(42°19'00"N., 130°24'45"E.) to:
 Ports
 Busan, South Korea, 452
 Hakodate, Japan, 486
@@ -33600,7 +33599,7 @@ Suva, Fiji Islands, 1,412
 Sydney, Australia, 1,189
 Yokohama, Japan, 4,965
 WARNEMUNDE, GERMANY
-(54°l1'00"N., 12°05'30"E.)
+(54°11'00"N., 12°05'30"E.)
 Subtract 7 miles from Rostock
 distances.
 WARRENPOINT, NORTHERN
@@ -34124,7 +34123,7 @@ U.S.A.
 north of Woody Island. Add 6 miles
 to Kodiak distances.
 WONSAN, NORTH KOREA
-(39°l0'00"N., 127°26'00"E.) See
+(39°10'00"N., 127°26'00"E.) See
 Weonsan, North Korea.
 WOTHO, MARSHALL
 ISLANDS

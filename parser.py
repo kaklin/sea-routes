@@ -26,7 +26,7 @@ def parse_destinations(ports):
         dist_pattern = re.compile('\d+')
         name_pattern = re.compile('\D+')
         ports = [(name_pattern.search(x).group(0).strip(), dist_pattern.search(x).group(0)) for x in ports]
-        ports = {x[0]:x[1] for x in ports}
+        ports = {x[0]:float(x[1]) for x in ports}
     return ports
 
 def single_location_parser(loc):
