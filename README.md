@@ -9,13 +9,14 @@ Distances Between Ports (PUB 151) is a publication that lists the distances betw
 The positions listed for ports are central positions that most represent each port. The distances are between positions shown for each port and are generally over routes that afford the safest passage. Most of the distances represent the shortest navigable routes, but in some cases, longer routes, that take advantage of favorable currents, have been used. In other cases, increased distances result from routes selected to avoid ice or other dangers to navigation, or to follow required separation schemes.
 
 ### Map
+![pub151 ports](/junction_points.png)
 ![pub151 ports](/all_ports.png)
 
 
 ### Repo includes
 * Junction points with their longitude and latitude
 * All ports with their locations, the distances to junction points, and distances to other ports
-* `parser.py` which takes `PUB151_raw.txt` and spews out a JSON format
+* `parser.py` which takes `PUB151_raw.txt` and spews out a JSON format file
 
 ### Notes
 Some ports are considered special cases, that is when they dont have a list of junction points and ports. See below for an explanation of the difference:
