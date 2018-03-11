@@ -1718,7 +1718,7 @@ Halifax, Canada, 3,663
 Hull, England, 1,926
 Iokan’ga, Russia, 271
 Ivittuut, Greenland (direct), 2,573
-Ivittuut, Greenland (via 75 miles
+Ivittuut, Greenland (via seventy five miles
 off Kap Farvel), 2,683
 Key West, Florida, U.S.A., 5,150
 Liverpool, England, 2,075
@@ -1766,7 +1766,8 @@ New York, New York, U.S.A.,
 3,005
 Recife, Brazil, 2,540
 Savannah, Georgia, U.S.A., 3,496
-ARUBA
+ARUBA, NETHERLANDS
+(12°25'45"N., 69°54'30"W.)
 See Sint Nicolaashaven.
 ARZEW, ALGERIA
 (35°51'30"N., 0°18'00"W.) to:
@@ -1873,9 +1874,7 @@ AUCKLAND, NEWZEALAND
 Junction Points*
 Cape Leeuwin, Australia, 3,029
 Panama, Panama, 6,516
-Punta Arenas, Chile (via 30°S.),
-6,132
-Punta Arenas, Chile (via 49°S.),
+Punta Arenas, Chile,
 4,814
 Torres Strait, Australia (via Raine
 Island entrance), 2,485
@@ -3472,7 +3471,7 @@ Fremantle, Australia, 4,933
 Malacca, Malaysia, 3,531
 Penang, Malaysia, 3,358
 Port Darwin, Australia, 5,384
-Sabang, Indonesia., 3.047
+Sabang, Indonesia., 3,047
 BERGEN, NORWAY
 (60°24'00"N., 5°19'00"E.) to:
 Junction Points*
@@ -3698,7 +3697,7 @@ Hartlepool, England, 594
 Holyhead, Wales, 232
 Horta, Fayal, Azores, 1,158
 Hull, England, 531
-Ivittuut, Greenland (via 75 miles
+Ivittuut, Greenland (via seventy five miles
 off Kap Farvel), 1,652
 Ivittuut, Greenland (direct), 1,608
 Jacksonville, Florida, U.S.A.,
@@ -4565,9 +4564,9 @@ BRISBANE, AUSTRALIA
 (27°28'00"S., 153°03'30"E.) to:
 Junction Points*
 Panama, Panama, 7,687
-Punta Arenas, Chile (via 30°S.),
+Punta Arenas, Chile (via thirty°S.),
 7,369
-Punta Arenas, Chile (via 49°S.),
+Punta Arenas, Chile (via forty nine°S.),
 6,063
 Torres Strait, Australia (via inner
 route), 1,348
@@ -5669,7 +5668,7 @@ AUSTRALIA
 (34°32'00"S., 115°08'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa
-(via 30°S.), 5,068
+(via thirty°S.), 5,068
 Selat Lombok, Indonesia, 1,571
 Port Said, Egypt, 6,389
 Selat Sunda, Indonesia, 1,815
@@ -5765,8 +5764,7 @@ SOUTH AFRICA
 (34°22'00"S., 18°23'00"E.) to:
 Junction Points*
 Bishop Rock, England, 5,790
-Cape Leeuwin, Australia (via
-41°S), 4,660
+Cape Leeuwin, Australia (via forty one°S), 4,660
 Fastnet Rock, Ireland, 5,880
 Grand Banks South, 5,954
 Ile d’Ouessant, France, 5,746
@@ -5948,13 +5946,11 @@ CAPE ST. JACQUES,
 VIETNAM
 (10°20'30"N., 107°04'00"E.) See
 Vung Tao.
-CAPE TOWN, SOUTH
-AFRICA
+CAPE TOWN, SOUTH AFRICA
 (33°54'00"S., 18°26'00"E.) to:
 Junction Points*
 Bishop Rock, England, 5,772
-Cape of Good Hope, South
-Africa, 35
+Cape of Good Hope, South Africa, 35
 Ile d’Ouessant, France, 5,743
 Montreal, Canada (via Cabot
 Strait), 7,118
@@ -6017,8 +6013,7 @@ Swakopmund, South Africa, 719
 Sydney, Canada, 6,425
 Vigo, Spain, 5,322
 Willemstad, Curacao, 5,740
-Wilmington, North Carolina,
-U.S.A., 6.820
+Wilmington, North Carolina, U.S.A., 6,820
 CARDENAS, CUBA
 (23°03'30"N., 81°11'30"W.) to:
 Junction Points*
@@ -6034,8 +6029,7 @@ Philadelphia, Pennsylvania,
 U.S.A., 1,124
 Port au Prince, Haiti, 603
 San Juan, Puerto Rico, 917
-Santo Domingo, Dominican
-Republic, 887
+Santo Domingo, Dominican Republic, 887
 CARDIFF, WALES
 (51°27'00"N., 3°09'00"W.) to:
 Junction Points*
@@ -6667,7 +6661,7 @@ Old Bahama Channel,
 southbound), 763
 Pointe a Pitre, Guadeloupe, 1,443
 Ponce, Puerto Rico, 1,168
-Ponta Delgada, Azores, 2 644
+Ponta Delgada, Azores, 2,644
 Port au Prince, Haiti, 961
 Port of Spain, Trinidad, 1,682
 Port Antonio, Jamaica (via
@@ -7044,9 +7038,9 @@ San Francisco, California, U.S.A.,
 CHURCHILL, CANADA
 (58°46'40"N., 94°11'42"W.) to:
 Junction Points*
-Inishtrahull, Ireland (via 75 miles
+Inishtrahull, Ireland (via seventy five miles
 off Kap Farvel), 2,760
-Pentland Firth, Scotland (via 75
+Pentland Firth, Scotland (via seventy five
 miles off Kap Farvel), 2,820
 Ports
 Aasiaat (Egedesminde),
@@ -7065,7 +7059,7 @@ Nuuk (Godthaab), Greenland,
 Qaanaaq (Thule), Greenland,
 1,909
 Qasigiannguit, Greenland, 1,523
-Reykjavik, Iceland (via 75 miles
+Reykjavik, Iceland (via seventy five miles
 off Kap Farvel), 2,290
 Ritenbenk, Greenland, 1,695
 Shelburne, Canada, 2,467
@@ -7293,7 +7287,6 @@ Phuket, Thailand, 1,192
 Port Darwin, Australia, 3,314
 Port Louis, Mauritius, 2,098
 Port Refuge, Cocos Islands, 1,539
-COOS BAY, OREGON, U.S.A. 27
 Rangoon, Burma, 1,268
 Sabang, Indonesia, 976
 Tamatave, Madagascar, 2,351
@@ -7581,7 +7574,7 @@ Panama, Panama, 3,589
 Punta Arenas, Chile, 6,549
 Singapore (via San Bernardino
 Strait), 7,284
-Singapore (via 30°N., 180° and
+Singapore (via thirty°N., one eighty° and
 Balintang Channel), 7,512
 Torres Strait, Australia, 6,057
 Wilson Promontory, Australia,
@@ -8708,7 +8701,7 @@ Panama, Panama, 2,922
 Punta Arenas, Chile, 5,883
 Singapore (via Balintang
 Channel), 7,642
-Singapore (via 30°N., 180° and
+Singapore (via thirty°N., one eighty° and
 Balintang Channel), 7,867
 Torres Strait, Australia, 6,432
 Wilson Promontory, Australia,
@@ -8940,7 +8933,7 @@ Panama, Panama, 3,438
 Punta Arenas, Chile, 6,438
 Singapore (via San Bernardino
 Strait), 7,352
-Singapore (via 30°N., 180° and
+Singapore (via thirty°N., one eighty° and
 Balintang Channel), 7,532
 Torres Strait, Australia, 6,030
 Wilson Promontory, Australia,
@@ -10578,7 +10571,7 @@ Manzanillo, Cuba, 206
 Matanzas, Cuba, 553
 Miami, Florida, U.S.A., 582
 Monrovia, Liberia, 3,828
-Montevideo, Uruguay, 5,I67
+Montevideo, Uruguay, 5,167
 Nassau, Bahamas, 503
 New York, New York, U.S.A.,
 1,312
@@ -11008,7 +11001,7 @@ San Francisco, California, U.S.A.,
 Seattle, Washington, U.S.A. (north
 of Aleutian Islands), 3,922
 Seattle, Washington, U.S.A. (via
-composite sailing at 50°N.),
+composite sailing at fifty°N.),
 3,982
 Seward, Alaska, U.S.A. (via south
 of Aleutian Islands), 3,069
@@ -12229,7 +12222,7 @@ Amsterdam, Netherlands, 465
 Anecho, Togo, 3,704
 Antwerp, Belgium, 441
 Aviles, Spain, 307
-Bata, Equatorial Guinea, 4,l73
+Bata, Equatorial Guinea, 4,173
 Bayonne, France, 345
 Belem, Brazil, 3,748
 Bergen, Norway, 894
@@ -12385,10 +12378,8 @@ Junction Points*
 Panama, Panama, 1,851
 Punta Arenas, Chile, 2,341
 Torres Strait, Australia, 8,347
-Wilson Promontory, Australia (via
-30°S.), 7,421
-Wilson Promontory, Australia (via
-40°S.), 7,160
+Wilson Promontory, Australia (via thirty°S.), 7,421
+Wilson Promontory, Australia (via forty°S.), 7,160
 Ports
 Antofagasta, Chile, 367
 Arica, Chile, 85
@@ -12571,7 +12562,7 @@ Charleston, South Carolina,
 U.S.A., 3,331
 Charlotte Amalie, Virgin Islands,
 3,427
-Churchill, Canada (via 75 miles off
+Churchill, Canada (via seventy five miles off
 Kap Farvel), 2,760
 Cienfuegos, Cuba, 4,055
 Colon, Panama (via Mona
@@ -12594,7 +12585,7 @@ Hamilton, Bermuda, 2,747
 Holyhead, Wales, 181
 Horta, Azores, 1,329
 Ivittuut, Greenland (direct), 1,392
-Ivittuut, Greenland (via 75 miles
+Ivittuut, Greenland (via seventy five miles
 off Kap Farvel), 1,450
 Jacksonville, Florida, U.S.A.,
 3,499
@@ -12623,7 +12614,7 @@ Port Talbot, Wales, 331
 Providence, Rhode Island, U.S.A.,
 2,804
 Qeqertarsuaq (Godhavn),
-Greenland (via 75 miles off Kap
+Greenland (via seventy five miles off Kap
 Farvel), 1,953
 Qeqertarsuaq (Godhavn),
 Greenland, 1,901
@@ -16185,7 +16176,7 @@ LYSEKIL, SWEDEN
 Junction Points*
 Nord-Ostsee-Kanal (East
 Entrance), Germany (via Store
-Baelt), 267.
+Baelt), 267
 Nord-Ostsee-Kanal (East
 Entrance), Germany (via The
 Sound), 340
@@ -16500,7 +16491,7 @@ Channel), 422
 MALTEPE, TURKEY
 (40°54'00"N., 29°08'00"E.) Add
 5 miles to Istanbul distances for
-Ports outside of the Black Sea and
+Port outside of the Black Sea and
 Sea of Marmara.
 MANAUS, BRAZIL
 (3°08'00"S., 60°01'00"W.) Add
@@ -17057,10 +17048,8 @@ Junction Points*
 Panama, Panama, 1,790
 Punta Arenas, Chile, 2,380
 Torres Strait, Australia, 8,324
-Wilson Promontory, Australia (via
-30°S.), 7,398
-Wilson Promontory, Australia (via
-40°S.), 7,154
+Wilson Promontory, Australia (via thirty°S.), 7,398
+Wilson Promontory, Australia (via forty°S.), 7,154
 Ports
 Antofagasta, Chile, 423
 Callao, Peru, 462
@@ -17706,7 +17695,7 @@ Madagascar), 4,367
 Malacca, Malaysia, 3,965
 Mtwara, Tanzania, 327
 Penang, Malaysia, 3,792
-Port Darwin, Australia (via 20
+Port Darwin, Australia (via twenty
 miles north of Scott Reef),
 5,304
 Sabang, Indonesia, 3,481
@@ -17824,7 +17813,7 @@ Brevik, Norway, 762
 Hammerfest, Norway, 433
 Hull, England, 908
 Oslo, Norway, 824
-Reykjavik, Iceland, 1,0l0
+Reykjavik, Iceland, 1,010
 Zeebrugge, Belgium, 1,018
 MOJI, JAPAN
 (33°6'30"N., 130°57'30"E.) to:
@@ -18270,7 +18259,7 @@ Gronnedal, Greenland, 2,395
 Halifax, Canada, 3,368
 Hvalfjordhur, Iceland, 1,531
 Ivittuut, Greenland (direct), 2,201
-Ivittuut, Greenland (via 75 miles
+Ivittuut, Greenland (via seventy five miles
 off Kap Farvel), 2,310
 Keflavik, Iceland, 1,503
 Liverpool, England, 1,703
@@ -18989,7 +18978,7 @@ ZEALAND
 (39°02'08"S., 174°02'30"E.) to:
 Junction Points*
 Panama, Panama, 6,712
-Punta Arenas, Chile (via 50°S),
+Punta Arenas, Chile (via fifty°S),
 4,690
 Torres Strait, Australia, 2,502
 Wilson Promontory, Australia,
@@ -19313,7 +19302,6 @@ Ho Chi Minh, Vietnam, 264
 Hong Kong, China, 678
 Kao-hsiung Kang, Taiwan, 895
 Manila, Philippines, 706
-NORFOLK, VIRGINIA, U.S.A. 71
 NICE, FRANCE
 (43°41'40"N., 7°17'07"E.) to:
 Junction Points*
@@ -19581,7 +19569,7 @@ Punta Arenas, Chile, 6,900
 Strait of Gibraltar, 3,335
 Straits of Florida (via outer route),
 980
-Yucatan Channel, 1,l65
+Yucatan Channel, 1,165
 Ports
 Argentia, Canada, 1,189
 Arkhangel’sk, Russia, 4,399
@@ -19751,7 +19739,7 @@ NOUMEA, NEWCALEDONIA
 Junction Points*
 Panama, Panama, 6,982
 Punta Arenas, Chile (composite
-sailing with 49°S. the limiting
+sailing with forty nine°S. the limiting
 latitude), 5,745
 Punta Arenas, Chile (via great
 circle), 5,527
@@ -20210,7 +20198,7 @@ OPUA, NEW ZEALAND
 (35°18'50"S., 174°07'25"E.) to:
 Junction Points*
 Panama, Panama, 6,675
-Punta Arenas, Chile (via 50°S),
+Punta Arenas, Chile (via fifty°S),
 4,760
 Torres Strait, Australia, 2,472
 Wilson Promontory, Australia,
@@ -20414,7 +20402,7 @@ Kobenhavn, Denmark, 272
 Kragero, Norway, 95
 Kristiansand, Norway, 163
 Kristiansund, Norway, 539
-Landskrona, Sweden, 26l
+Landskrona, Sweden, 261
 Larvik, Norway, 72
 Le Havre, France, 752
 Leith, Scotland, 76
@@ -20484,7 +20472,7 @@ Sound), 808
 Vysotsk, Russia (via Store Baelt),
 1,047
 Vysotsk, Russia (via The Sound),
-92.
+92
 Wilhelmshaven, Germany, 421
 Zeebrugge, Belgium, 586
 OSTRICA, LOUISIANA,U.S.A.
@@ -21639,7 +21627,7 @@ Charleston, South Carolina,
 U.S.A., 3,506
 Charlotte Amalie, Virgin Islands,
 3,616
-Churchill, Canada (via 75 miles off
+Churchill, Canada (via seventy five miles off
 Kap Farvel), 2,820
 Cienfuegos, Cuba, 4,229
 Cobh, Ireland, 578
@@ -21676,7 +21664,7 @@ Hvalfjordhur, Iceland, 660
 Ilulissat (Jakobshavn), Greenland,
 1,972
 Ivittuut, Greenland (direct), 1,440
-Ivittuut, Greenland (via 75 miles
+Ivittuut, Greenland (via seventy five miles
 off Kap Farvel), 1,510
 Jacksonville, Florida, U.S.A.,
 3,677
@@ -23316,7 +23304,7 @@ NEW GUINEA
 (9°28'45"S., 147°08'40"E.) to:
 Junction Points*
 Panama, Panama, 8,292
-Punta Arenas, Chile (via 50°S.),
+Punta Arenas, Chile (via fifty°S.),
 6,897
 Torres Strait, Australia, 339
 Wilson Promontory, Australia,
@@ -24617,16 +24605,14 @@ Panama, Panama, 3,932
 Pentland Firth, Scotland, 7,563
 Strait of Gibraltar, 6,352
 Straits of Florida, 6,783
-Torres Strait, Australia (via 30°S.
+Torres Strait, Australia (via thirty°S.
 and Raine Island entrance),
 7,217
 Tsugaru-Kaikyo, Japan, 9,449
 Wilson Promontory, Australia (via
-Foveaux Strait and 49°S.), 5,820
-Wilson Promontory, Australia (via
-30°S. and Cook Strait), 7,460
-Wilson Promontory, Australia (via
-60°S.), 5,305
+Foveaux Strait and forty nine°S.), 5,820
+Wilson Promontory, Australia (via thirty°S. and Cook Strait), 7,460
+Wilson Promontory, Australia (via sixty°S.), 5,305
 Yucatan Channel, 6,794
 Ports
 Acapulco, Mexico, 4,582
@@ -24635,10 +24621,8 @@ Antofagasta, Chile, 1,996
 Apia, Samoa, 5,207
 Apra, Guam, 8,071
 Arica, Chile, 2,301
-Auckland, New Zealand (via
-30°S.), 6,132
-Auckland, New Zealand (via
-49°S.), 4,814
+Auckland, New Zealand (via thirty°S.), 6,132
+Auckland, New Zealand (via forty nine°S.), 4,814
 Avarua, Cook Islands, 4,429
 Bahia Blanca, Argentina, 1,004
 Baltimore, Maryland, U.S.A.,
@@ -24647,9 +24631,9 @@ Belem, Brazil, 4,363
 Bordeaux, France, 7,074
 Boston, Massachusetts, U.S.A.,
 6,910
-Brisbane, Australia (via 30°S.),
+Brisbane, Australia (via thirty°S.),
 7,369
-Brisbane, Australia (via 49°S.),
+Brisbane, Australia (via forty nine°S.),
 6,063
 Buenos Aires, Argentina, 1,394
 Cabedelo, Cuba, 3,327
@@ -24681,16 +24665,15 @@ Funchal, Madeira Island, 5,894
 Georgetown, Guyana, 5,030
 Guayaquil, Ecuador, 3,307
 Guaymas, Mexico, 5,401
-Hakodate, Japan (via 30°S.), 9,672
+Hakodate, Japan (via thirty°S.), 9,672
 Halifax, Canada, 6,799
 Hamilton, Bermuda, 6,273
-Honolulu, Hawaii, U.S.A. (via
-30°S.), 6,414
+Honolulu, Hawaii, U.S.A. (via thirty°S.), 6,414
 Iquique, Chile, 2,201
 Jacksonville, Florida, U.S.A.,
 6,879
 Jaluit, Marshall Islands, 6,815
-Kobe, Japan (via 30°S.), 9,872
+Kobe, Japan (via thirty°S.), 9,872
 La Habana, Cuba (via Old Bahama
 Channel and east of South
 America), 6,742
@@ -24708,7 +24691,7 @@ Monterey, California, U.S.A.,
 6,113
 Montevideo, Uruguay (via west of
 English Bank), 1,300
-Nagasaki, Japan (via 30°S.),
+Nagasaki, Japan (via thirty°S.),
 10,126
 Natal, Brazil, 3,400
 New York, New York, U.S.A.,
@@ -24735,8 +24718,7 @@ Puerto Madryn, Argentina, 760
 Puerto Montt, Chile, 992
 Puntarenas, Costa Rica, 4,010
 Quequen, Argentina, 1,053
-Rabaul, Papua New Guinea (via
-30°S.), 7,980
+Rabaul, Papua New Guinea (via thirty°S.), 7,980
 Recife, Brazil, 3,252
 Rio de Janeiro, Brazil, 2,238
 Rio Gallegos, Argentina, 202
@@ -24757,29 +24739,27 @@ Islands, 5,690
 Savannah, Georgia, U.S.A., 6,898
 Seattle, Washington, U.S.A., 6,964
 Seward, Alaska, U.S.A., 7,859
-Shanghai, China (via 30°S.),
+Shanghai, China (via thirty°S.),
 10,465
-Shimonoseki, Japan (via 30°S.),
+Shimonoseki, Japan (via thirty°S.),
 10,038
 Sitka, Alaska, U.S.A., 7,455
 St. John’s, Canada, 6,735
 Suva, Fiji Islands, 5,444
-Sydney, Australia (via 30°S. and
+Sydney, Australia (via thirty°S. and
 north of New Zealand), 7,301
-Sydney, Australia (via 60°S.),
+Sydney, Australia (via sixty°S.),
 5,398
 Talcahuano, Chile, 1,269
 Tocopilla, Chile, 2,177
 Valparaiso, Chile, 1,432
 Vancouver, Canada, 6,978
-Wellington, New Zealand (via
-30°S.), 6,141
-Wellington, New Zealand (via
-50°S.), 4,634
+Wellington, New Zealand (via thirty°S.), 6,141
+Wellington, New Zealand (via fifty°S.), 4,634
 Wilmington, North Carolina,
 U.S.A., 6,853
 Xiamen, China, 10,537
-Yokohama, Japan (via 30°S.),
+Yokohama, Japan (via thirty°S.),
 9,642
 PUNTA CARDON,
 VENEZUELA
@@ -24865,7 +24845,7 @@ Ports
 New York, New York, U.S.A.,
 1,911
 Reykjavik, Iceland (direct), 795
-Reykjavik, Iceland (via 75 miles
+Reykjavik, Iceland (via seventy five miles
 off Kap Farvel), 892
 St. John’s, Canada, 827
 QASIGIANNGUIT,
@@ -24882,12 +24862,12 @@ QEQERTARSUAQ
 (GODHAVN), GREENLAND
 (69°14'00"N., 53°32'00"W.) to:
 Junction Points*
-Inishtrahull, Ireland (via 75 miles
+Inishtrahull, Ireland (via seventy five miles
 off Kap Farvel), 1,953
 Inishtrahull, Ireland, 1,901
 Ports
 Ivittuut, Greenland, 560
-Reykjavik, Iceland (via 75 miles
+Reykjavik, Iceland (via seventy five miles
 off Kap Farvel), 1,483
 Reykjavik, Iceland, 1,396
 QINGDAO, CHINA
@@ -24969,7 +24949,7 @@ Russia, 2,368
 Qingdao, China, 381
 Shanghai, China, 668
 Vladivostok, Russia (via Maenggol
-Sudo), 1,l51
+Sudo), 1,151
 Weihai, China, 191
 Weonsan, South Korea, 995
 Xiamen, China, 1,114
@@ -25129,7 +25109,7 @@ GUINEA
 (4°12'30"S., 152°12'00"E.) to:
 Junction Points*
 Panama, Panama, 7,807
-Punta Arenas, Chile (via 49°S.),
+Punta Arenas, Chile (via forty nine°S.),
 7,036
 Ports
 Apia, Samoa, 2,232
@@ -25443,7 +25423,7 @@ Boston, Massachusetts, U.S.A.,
 2,293
 Brest, France, 1,193
 Camp Lloyd, Greenland, 1,274
-Churchill, Canada (via 75 miles off
+Churchill, Canada (via seventy five miles off
 Kap Farvel), 2,290
 Colon, Panama, 4,098
 Frederiksdal, Greenland, 714
@@ -25454,7 +25434,7 @@ Halifax, Canada, 1,941
 Ilulissat (Jakobshavn), Greenland,
 1,418
 Iokan’ga, Russia, 1,646
-Ivittuut, Greenland (via 75 miles
+Ivittuut, Greenland (via seventy five miles
 off Kap Farvel), 980
 Ivittuut, Greenland, 887
 Kangerluarsoruseq, Greenland,
@@ -25486,13 +25466,13 @@ U.S.A., 2,271
 Qaanaaq (Thule), Greenland,
 1,898
 Qaqortoq (Julianehaab), Greenland
-(via 75 miles off Kap Farvel),
+(via seventy five miles off Kap Farvel),
 892
 Qaqortoq (Julianehaab),
 Greenland, 795
 Qasigiannguit, Greenland, 1,278
 Qeqertarsuaq (Godhavn),
-Greenland (via 75 miles off Kap
+Greenland (via seventy five miles off Kap
 Farvel), 1,483
 Qeqertarsuaq (Godhavn),
 Greenland, 1,396
@@ -26047,7 +26027,7 @@ Port Louis, Mauritius, 2,731
 Rangoon, Burma, 664
 Tamatave, Madagascar, 3,076
 Victoria, Seychelles, 2,468
-Zanzibar, Tanzania, 3,46l
+Zanzibar, Tanzania, 3,461
 SAFI, MOROCCO
 (32°18'35"N., 9°15'15"W.) to:
 Junction Points*
@@ -26646,7 +26626,7 @@ Funchal, Madeira Island, 2,773
 Georgetown, Guyana, 876
 Guantanamo, Cuba (via north of
 Hispaniola), 537
-Halifax, Canada, 1 ,580
+Halifax, Canada, 1,580
 Hamilton, Bermuda, 856
 Hopetown, Bahamas, 802
 Horta, Azores, 2,294
@@ -26762,10 +26742,8 @@ Junction Points*
 Panama, Panama, 1,573
 Punta Arenas, Chile, 2,469
 Torres Strait, Australia, 8,209
-Wilson Promontory, Australia (via
-30°S.), 8,119
-Wilson Promontory, Australia (via
-40°S.), 7,099
+Wilson Promontory, Australia (via thirty°S.), 8,119
+Wilson Promontory, Australia (via forty°S.), 7,099
 Ports
 Antofagasta, Chile, 571
 Arica, Chile, 350
@@ -26940,7 +26918,7 @@ Lota, Chile, 5,018
 Pisco, Peru, 3,832
 Puntarenas, Costa Rica, 2,566
 Salina Cruz, Mexico, 1,870
-San Jose, Guatemala, 2,130.
+San Jose, Guatemala, 2,130
 Talcahuano, Chile, 5,006
 Valparaiso, Chile, 4,875
 SANTA CRUZ DE TENERIFE,
@@ -30045,7 +30023,7 @@ Iraklion, Kriti, 1,516
 Iskenderun, Turkey, 2,054
 Istanbul, Turkey, 1,821
 Ivittuut, Greenland (direct), 2,283
-Ivittuut, Greenland (via 75 miles
+Ivittuut, Greenland (via seventy five miles
 off Kap Farvel), 2,304
 Izmir, Turkey, 1,667
 Jacksonville, Florida, U.S.A.,
@@ -30476,10 +30454,8 @@ Junction Points*
 Panama, Panama, 1,265
 Punta Arenas, Chile, 2,736
 Torres Strait, Australia, 8,217
-Wilson Promontory, Australia (via
-30°S.), 7,291
-Wilson Promontory, Australia (via
-40°S.), 7,203
+Wilson Promontory, Australia (via thirty°S.), 7,291
+Wilson Promontory, Australia (via forty°S.), 7,203
 Ports
 Antofagasta, Chile, 883
 Callao, Peru, 85
@@ -30677,9 +30653,9 @@ SYDNEY, AUSTRALIA
 (33°51'30"S., 151°l3'00"E.) to:
 Junction Points*
 Panama, Panama, 7,674
-Punta Arenas, Chile (via 49°S.),
+Punta Arenas, Chile (via forty nine°S.),
 5,848
-Punta Arenas, Chile (via 60°S.),
+Punta Arenas, Chile (via sixty°S.),
 5,398
 Torres Strait, Australia, 1,670
 Wilson Promontory, Australia, 440
@@ -30746,7 +30722,7 @@ Suva, Fiji Islands, 1,738
 Talomako, Vanuatu, 1,471
 Tinian, Mariana Islands, 3,064
 Truk, Caroline Islands, 2,543
-Valparaiso, Chile (via 49°S.),
+Valparaiso, Chile (via forty nine°S.),
 6,294
 Vladivostok, Russia, 5,105
 Wake Island, 3,346
@@ -31624,7 +31600,7 @@ Channel), 7,403
 Port Said, Egypt (via One and One
 Half Degree Channel), 7,505
 Punta Arenas, Chile (via Raine
-Island entrance and Lat. 49°S.),
+Island entrance and Lat. forty nine°S.),
 7,217
 Selat Wetar, Indonesia, 881
 Wilson Promontory, Australia (via
@@ -31720,7 +31696,7 @@ Kandavu Passage), 2,212
 Sydney, Australia, 1,754
 Townsville, Australia, 662
 Urangan, Australia, 1,198
-Valparaiso, Chile (via 49°S.),
+Valparaiso, Chile (via forty nine°S.),
 7,670
 Victoria, Sabah, 2,192
 Wellington, New Zealand (via
@@ -32476,11 +32452,11 @@ VALDEZ, ALASKA, U.S.A.
 Junction Points*
 Panama, Panama, 4,958
 Punta Arenas, Chile, 7,866
-Singapore (via 30°N., 180° and
+Singapore (via thirty°N., one eighty° and
 Balintang Channel), 7,119
-Singapore (via 30°N., 180° and San
+Singapore (via thirty°N., one eighty° and San
 Bernardino Strait), 7,106
-Singapore (via 50°N., 160°W. and
+Singapore (via fifty°N., one sixty°W. and
 San Bernardino Strait), 7,106
 Torres Strait, Australia, 5,883
 Wilson Promontory, Australia,
@@ -32637,12 +32613,9 @@ Junction Points*
 Panama, Panama, 2,616
 Punta Arenas, Chile, 1,432
 Torres Strait, Australia, 8,123
-Wilson Promontory, Australia (via
-30°S.), 7,130
-Wilson Promontory, Australia (via
-40°S.), 6,636
-Wilson Promontory, Australia (via
-60°S.), 6,031
+Wilson Promontory, Australia (via thirty°S.), 7,130
+Wilson Promontory, Australia (via forty°S.), 6,636
+Wilson Promontory, Australia (via sixty°S.), 6,031
 Ports
 Acapulco, Mexico, 3,406
 Antofagasta, Chile, 576
@@ -32717,9 +32690,9 @@ Shanghai, China, 10,148
 Shimonoseki, Japan, 9,709
 Sitka, Alaska, U.S.A., 6,407
 Suva, Fiji Islands, 5,759
-Sydney, Australia (via 30°S.),
+Sydney, Australia (via thirty°S.),
 6,986
-Sydney, Australia (via 49°S.),
+Sydney, Australia (via forty nine°S.),
 6,294
 Talcahuano, Chile, 241
 Tocopilla, Chile, 663
@@ -33551,7 +33524,7 @@ Hong Kong, China, 2,940
 Honolulu, Hawaii, U.S.A., 2,004
 Howland Island, 1,485
 Jaluit, Marshall Islands, 831
-Kodiak, Alaska, U.S.A., 2.961
+Kodiak, Alaska, U.S.A., 2,961
 Koniya, Ryukyu Islands, 2,107
 Manila, Philippines, 2,772
 Midway Island, 1,034
@@ -33739,9 +33712,9 @@ ZEALAND
 Junction Points*
 Cape Leeuwin, Australia, 2,863
 Panama, Panama, 6,505
-Punta Arenas, Chile (via 49°S.),
+Punta Arenas, Chile (via forty nine°S.),
 4,639
-Punta Arenas, Chile (via 50°S.),
+Punta Arenas, Chile (via fifty°S.),
 4,634
 Torres Strait, Australia, 2,683
 Wilson Promontory, Australia,
@@ -33786,7 +33759,7 @@ Seattle, Washington, U.S.A., 6,433
 Suva, Fiji Islands, 1,476
 Sydney, Australia, 1,234
 Urangan, Australia, 1,581
-Valparaiso, Chile (via 49°S ),
+Valparaiso, Chile (via forty nine°S ),
 5,066
 Yokohama, Japan, 5,041
 WENZHOU, CHINA
@@ -33844,7 +33817,7 @@ Qinhuangdao, China, 955
 San Francisco, California, U.S.A.,
 4,866
 Seattle, Washington, U.S.A. (via
-Tsugaru-Kaikyo and 50°N.),
+Tsugaru-Kaikyo and fifty°N.),
 4,601
 Shanghai, China (north of Cheju
 Do and via South Channel), 797
@@ -33861,7 +33834,7 @@ ZEALAND
 (35°53'20"S., 174°33'00"E.) to:
 Junction Points*
 Panama, Panama, 6,579
-Punta Arenas, Chile (via 50°S.),
+Punta Arenas, Chile (via fifty°S.),
 4,713
 Torres Strait, Australia, 2,511
 Wilson Promontory, Australia,
@@ -34097,8 +34070,8 @@ Strait), 7,818
 Panama, Panama (via Foveaux
 Strait), 7,770
 Punta Arenas, Chile (via Foveaux
-Strait and 49°S.), 5,820
-Punta Arenas, Chile (via 60°S. and
+Strait and forty nine°S.), 5,820
+Punta Arenas, Chile (via sixty°S. and
 south of Steward Island), 5,305
 Torres Strait, Australia (via
 Capricorn Channel and inner
@@ -34109,7 +34082,7 @@ Bluff Harbor, New Zealand, 1,133
 Brisbane, Australia, 931
 Burnie Harbor, Australia, 116
 Cairns Harbor, Australia, 1,649
-Callao, Peru (via 49°S.), 6,939
+Callao, Peru (via forty nine°S.), 6,939
 Honolulu, Hawaii, U.S.A., 4,792
 Kiama Harbor, Australia, 379
 Lautoka Harbor, Fiji Islands, 2,070
@@ -34132,7 +34105,7 @@ Suva, Fiji Islands, 2,088
 Sydney, Australia, 440
 Townsville, Australia, 1,499
 Urangan, Australia, 1,100
-Valparaiso, Chile (via 60°S.),
+Valparaiso, Chile (via sixty°S.),
 6,031
 Wellington, New Zealand, 1,338
 WISMAR, GERMANY
