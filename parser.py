@@ -8,7 +8,7 @@ with open('PUB151_raw.txt') as f:
 
 def split_by_port(x):
     """makes list of raw ports"""
-    p = re.compile('([A-Z]+[A-Z\ \-\(\)\’\.\,]+\n*[A-Z\ \-\(\)\’\.]+,[\ \n]*[A-Z\ \n\-\.]+[\ \n]*[A-Z\.]*\n)')
+    p = re.compile('([A-Z][A-Z\-\(\)\ \,\.\n\’]+\n\([\d]+)')
     x = p.split(x)[1:]
     x = zip(x[::2], x[1::2])
     x = [''.join(list(a)) for a in x]
@@ -19,13 +19,15 @@ ports = split_by_port(raw)
 def parse_destinations(ports):
     if ports != 'Special case':
         ports = ports.replace('&', ' ')
-        ports = ports.replace(',', '')
-        p = re.compile('\D*\d*\s')
+        # print(ports)
+        # ports = ports.replace(',', '')
+        p = re.compile('[\D]+[\d\,\d]+')
         ports = p.findall(ports)
         ports = [x.strip() for x in ports]
-        dist_pattern = re.compile('\d+')
+        # print(ports[0])
+        dist_pattern = re.compile('\d+,*\d+')
         name_pattern = re.compile('\D+')
-        ports = [(name_pattern.search(x).group(0).strip(), dist_pattern.search(x).group(0)) for x in ports]
+        ports = [(name_pattern.search(x).group(0).strip()[:-1], dist_pattern.search(x).group(0).replace(',','')) for x in ports]
         ports = {x[0]:float(x[1]) for x in ports}
     return ports
 
@@ -35,7 +37,7 @@ def single_location_parser(loc):
     # print('-------EXTRACTED------------')
     loc = loc.replace('\n', '&')
     p = re.compile('.*\([0-9]')
-    port_name = p.match(loc).group(0)[:-2].replace('&', '')
+    port_name = p.match(loc).group(0)[:-2].replace('&', ' ').strip()
 
     # print('Port name: {}'.format(port_name.title()))
     port_name = port_name.title()
