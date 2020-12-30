@@ -10409,7 +10409,7 @@ Ho Chi Minh, Vietnam, 2,484
 Hong Kong, China, 2,583
 Manila, Philippines, 2,034
 Port Darwin, Australia, 460
-GRAND BANKS SOUTH, ATLANTIC
+GRAND BANKS SOUTH
 (42°30'00"N., 50°00'00"W.) to:
 Junction Points*
 Bishop Rock, England, 1,830
@@ -11932,7 +11932,7 @@ Selat Lombok, Indonesia, 3,059
 Panama, Panama, 7,614
 Punta Arenas, Chile, 9,286
 Singapore, 2,879
-Sundra Strait, Indonesia, 3,171
+Selat Sunda, Indonesia, 3,171
 Torres Strait, Australia, 3,265
 Tsugaru-Kaikyo, Japan, 484
 Selat Wetar, Indonesia, 2,838
@@ -21787,7 +21787,7 @@ Dutch Harbor, Alaska, U.S.A.,
 Seattle, Washington, U.S.A., 771
 Valdez, Alaska, U.S.A., 539
 Victoria, Canada, 719
-PETROPAVLOVSKKAMCHATSKIY,
+PETROPAVLOVSK-KAMCHATSKIY,
 RUSSIA
 (53°00'00"N., 158°38'00"E.) to:
 Junction Points*
@@ -25548,7 +25548,7 @@ Cape Leeuwin, Australia, 4,129
 Selat Lombok, Indonesia, 4,811
 Port Said, Egypt, 5,917
 Singapore, 4,837
-Sundra Strait, Indonesia, 4,370
+Selat Sunda, Indonesia, 4,370
 Torres Strait, Australia, 6,259
 Ports
 Albany, Australia, 5,031
@@ -27797,8 +27797,7 @@ Incheon, South Korea, 2,913
 Jakarta, Indonesia, 77
 Kompong Som, Camb (via Los
 Angeles, California, U.S.A.),
-1,096, (via Makassar Strait),
-7,976
+1,096
 Makassar, Sulawesi, 861
 Malacca, Malaysia, 619
 Manila, Philippines, 1,578
@@ -27842,7 +27841,7 @@ Honshu, Japan, 2,838
 Selat Lombok, Indonesia, 727
 Singapore (via Selat Riouw and
 Selat Karimata), 1,587
-Sundra Strait, Indonesia, 1,330
+Selat Sunda, Indonesia, 1,330
 Torres Strait, Australia, 881
 Ports
 Balikpapan, Kalimantan,
@@ -27914,7 +27913,7 @@ Panama, Panama (via north of
 Sulawesi), 10,464
 Singapore (via Makassar and
 Karimata Straits), 815
-Sundra Strait, Indonesia, 834
+Selat Sunda, Indonesia, 834
 Tsugaru-Kaikyo, Japan, 2,963
 Selat Wetar, Indonesia, 858
 Ports
@@ -28311,7 +28310,6 @@ Kobe, Japan, 279
 Nagoya, Japan, 143
 Shimonoseki, Japan, 469
 Yokohama, Japan, 116
-SINGAPORE 103
 SHIMONOSEKI, JAPAN
 (33°57'00"N., 130°56'35"E.) to:
 Junction Points*
@@ -28562,7 +28560,7 @@ Ponta Delgada, Azores, 794
 Santa Cruz de Tenerife, Canary
 Islands, 727
 Vigo, Spain, 251
-SINGAPORE, SINGAPORE 
+SINGAPORE
 (1°16'00"N., 103°50'00"E.) to:
 Junction Points*
 Cape of Good Hope, South Africa,
@@ -29903,7 +29901,7 @@ Ports
 Belfast, Northern Ireland, 234
 Glasgow, Scotland, 283
 Reykjavik, Iceland, 647
-STRAIT OF GIBRALTAR, GIBRALTAR
+STRAIT OF GIBRALTAR
 (35°57'00"N., 5°45'00"W.) to:
 Junction Points*
 Bishop Rock, England, 969
@@ -30200,7 +30198,7 @@ Willemstad, Curacao, 3,685
 Wilmington, North Carolina,
 U.S.A., 3,524
 Yumurtalik, Turkey, 1,672
-STRAITS OF FLORIDA, U.S.A.
+STRAITS OF FLORIDA
 (24°25'00"N., 83°00'00"W.) to:
 Junction Points*
 Cape of Good Hope, South Africa,
@@ -32242,7 +32240,7 @@ Africa, 6,593
 Cape Leeuwin, Australia, 3,347
 Port Said, Egypt, 3,400
 Singapore, 1,715
-Sundra Strait, Indonesia, 1,920
+Selat Sunda, Indonesia, 1,920
 Torres Strait, Australia, 4,165
 Ports
 Al Basrah, Iraq, 2,274
@@ -34638,7 +34636,7 @@ distances.
 YOSU, SOUTH KOREA
 (34°45'00"N., 127°45'30"E.) See
 Yeosu, South Korea.
-YUCATAN CHANNEL, MEXICO
+YUCATAN CHANNEL
 (21°50'00"N., 85°03'00"W.) to:
 Junction Points*
 Bishop Rock, England, 4,103
